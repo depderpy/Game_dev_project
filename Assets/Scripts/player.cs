@@ -1,26 +1,32 @@
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+
 
 public class player : MonoBehaviour
 {
     [SerializeField] private float movementspeed = 5f;
     private Rigidbody2D rb;
     private Vector2 moveDirection;
+    private bool IsMoving;
     
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
+
     }
 
-    void Update()
+    private void Update()
     {
-        moveDirection = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-    }
-
-    //The Fixed update is for rendering all the physics 
-    void FixedUpdate()
-    {
-        rb.linearVelocity = moveDirection * movementspeed;
+        if(!IsMoving)
+        {
+            moveDirection.x = Input.GetAxisRaw("Horizontal");
+            moveDirection.y = Input.GetAxisRaw("Vertical");
+        }
+        if(moveDirection  != Vector2.zero)
+        {
+            transform.position = (moveDirection.normalized * movementspeed * Time.deltaTime) + (Vector2)transform.position;
+        }
     }
 }
+    //The Fixed update is for rendering all the physics 
+    
