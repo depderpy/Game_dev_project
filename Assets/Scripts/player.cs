@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Tilemaps;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -6,10 +7,13 @@ using System.Collections.Generic;
 public class player : MonoBehaviour
 {
     [SerializeField] private float movementspeed = 5f;
+    [SerializeField] private Tilemap _tiledetector;
+    [SerializeField] private GameObject battletile;
+
     private Rigidbody2D rb;
     private Vector2 moveDirection;
     private bool IsMoving;
-    private LayerMask battlezone;
+    private bool battlezone;
     
     void Start()
     {
@@ -37,10 +41,10 @@ public class player : MonoBehaviour
 
     private void CheckForEncounters()
     {
-        if(Physics2D.OverlapCircle(transform.position, 0.01f, battlezone ) != null);
-        {
-            Debug.Log("battle encountered");
-        }
+        if(!battlezone) return;
+
+        Vector3Int tilepostion = _tiledetector.WorldToCell(_tiledetector.transform.position);
+        TileBase tile = _tiledetector.GetTile(tilepostion);
     }
 }
     //The Fixed update is for rendering all the physics 
