@@ -9,6 +9,7 @@ public class player : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveDirection;
     private bool IsMoving;
+    private LayerMask battlezone;
     
     void Start()
     {
@@ -22,9 +23,23 @@ public class player : MonoBehaviour
             moveDirection.x = Input.GetAxisRaw("Horizontal");
             moveDirection.y = Input.GetAxisRaw("Vertical");
         }
+        move();
+    }
+
+    private void move()
+    {
         if(moveDirection  != Vector2.zero)
         {
             transform.position = (moveDirection.normalized * movementspeed * Time.deltaTime) + (Vector2)transform.position;
+        }
+        CheckForEncounters();
+    }
+
+    private void CheckForEncounters()
+    {
+        if(Physics2D.OverlapCircle(transform.position, 0.01f, battlezone ) != null);
+        {
+            Debug.Log("battle encountered");
         }
     }
 }
