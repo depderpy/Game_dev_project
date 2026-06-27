@@ -1,0 +1,3477 @@
+fileFormatVersion: 2
+guid: 06a93b795a79d0142ad4bd5e01a0ce8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4619045744428831819
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_0
+  - first:
+      213: -5949508424835400561
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_1
+  - first:
+      213: 2275047479686208055
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_2
+  - first:
+      213: -5697452346033302860
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_3
+  - first:
+      213: 418568198757874290
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_4
+  - first:
+      213: -1207072488847235258
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_5
+  - first:
+      213: 640821086435564097
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_6
+  - first:
+      213: -6098718334411825995
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_7
+  - first:
+      213: -5530763758277822881
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_8
+  - first:
+      213: 3631213332241103147
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_9
+  - first:
+      213: -3212811654835188872
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_10
+  - first:
+      213: 6930662574455216066
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_11
+  - first:
+      213: -1085056464934477704
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_12
+  - first:
+      213: 9188448481806244678
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_13
+  - first:
+      213: 1631976294637057360
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_14
+  - first:
+      213: 5979774743580853256
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_15
+  - first:
+      213: 7872971762041380816
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_16
+  - first:
+      213: 8951333779099515529
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_17
+  - first:
+      213: 4601185940000125698
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_18
+  - first:
+      213: -5146591455277130103
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_19
+  - first:
+      213: 5969396021633292174
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_20
+  - first:
+      213: -4439843997685590889
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_21
+  - first:
+      213: -3608210829893393862
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_22
+  - first:
+      213: 3762328030005295127
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_23
+  - first:
+      213: 5883722337718598583
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_24
+  - first:
+      213: 5873584429241753361
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_25
+  - first:
+      213: -4087953012803096610
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_26
+  - first:
+      213: -6128390582604954997
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_27
+  - first:
+      213: 6522957143376695316
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_28
+  - first:
+      213: -2979226072858580889
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_29
+  - first:
+      213: 9216267269381462449
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_30
+  - first:
+      213: -7154470974140142127
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_31
+  - first:
+      213: -5379920723607632311
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_32
+  - first:
+      213: 6424775672984065464
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_33
+  - first:
+      213: 481181779384796192
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_34
+  - first:
+      213: 2450797562509826814
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_35
+  - first:
+      213: 4179062805127309012
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_36
+  - first:
+      213: -3037191410062223384
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_37
+  - first:
+      213: -1059912154567160351
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_38
+  - first:
+      213: -925144452620410873
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_39
+  - first:
+      213: -8390151865179068713
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_40
+  - first:
+      213: -2686810878365825907
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_41
+  - first:
+      213: -7684781875021026599
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_42
+  - first:
+      213: -967651492166584627
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_43
+  - first:
+      213: 444459908810193092
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_44
+  - first:
+      213: 7208266660500221663
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_45
+  - first:
+      213: -511280418412907376
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_46
+  - first:
+      213: 7644638823840220851
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_47
+  - first:
+      213: -3730395297912776333
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_48
+  - first:
+      213: 1208705600507717890
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_49
+  - first:
+      213: -3136641075530232949
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_50
+  - first:
+      213: -2633254277164063511
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_51
+  - first:
+      213: -14300370594370285
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_52
+  - first:
+      213: 5629276323363410498
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_53
+  - first:
+      213: 4799983439541755251
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_54
+  - first:
+      213: 1659405970635073577
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_55
+  - first:
+      213: 6814520655470163249
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_56
+  - first:
+      213: -408070709794149928
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_57
+  - first:
+      213: -8938719331921107864
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_58
+  - first:
+      213: 851050741910174044
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_59
+  - first:
+      213: -43296734844365205
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_60
+  - first:
+      213: -9003460167449192380
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_61
+  - first:
+      213: -7230452250705934121
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_62
+  - first:
+      213: 4358860951779324637
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_63
+  - first:
+      213: 5708706395224779829
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_64
+  - first:
+      213: -1009710702180906444
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_65
+  - first:
+      213: -650203743099498538
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_66
+  - first:
+      213: 7210326883792941157
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_67
+  - first:
+      213: -841178137548164284
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_68
+  - first:
+      213: 356501914604307972
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_69
+  - first:
+      213: -5075498594062099056
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_70
+  - first:
+      213: 2344441283238669159
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_71
+  - first:
+      213: -3341385128997442631
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_72
+  - first:
+      213: 2025054712814762902
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_73
+  - first:
+      213: -8213091790935618475
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_74
+  - first:
+      213: -5549815355497638981
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_75
+  - first:
+      213: -8176633838000996640
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_76
+  - first:
+      213: -7291246612458912678
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_77
+  - first:
+      213: 186606862907932494
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_78
+  - first:
+      213: 2337714521680607317
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_79
+  - first:
+      213: 6824875085855030259
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_80
+  - first:
+      213: 1069655506954710831
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_81
+  - first:
+      213: 5747542471373967865
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_82
+  - first:
+      213: -8763616499262863201
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_83
+  - first:
+      213: -2188351171906056612
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_84
+  - first:
+      213: 3960265138307906151
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_85
+  - first:
+      213: 4246162912167141288
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_86
+  - first:
+      213: 6595292249430674856
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_87
+  - first:
+      213: -8604604781830705274
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_88
+  - first:
+      213: 4651529564929539788
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_89
+  - first:
+      213: 1427285426721314791
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_90
+  - first:
+      213: 5637334129522869487
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_91
+  - first:
+      213: 3562485911511789363
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_92
+  - first:
+      213: -2520002686268240810
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_93
+  - first:
+      213: 2491373190330320001
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_94
+  - first:
+      213: 7584261088610381533
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_95
+  - first:
+      213: 746360974751601143
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_96
+  - first:
+      213: -8537291912252720956
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_97
+  - first:
+      213: 9044751382589141658
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_98
+  - first:
+      213: -8724591207697698006
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_99
+  - first:
+      213: -6220768099295874673
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_100
+  - first:
+      213: 580822438521020862
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_101
+  - first:
+      213: -6420561335481927240
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_102
+  - first:
+      213: -738194349708450670
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_103
+  - first:
+      213: 544547147243793165
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_104
+  - first:
+      213: 5061484788366936081
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_105
+  - first:
+      213: -2340587923701886482
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_106
+  - first:
+      213: 6072758610135973536
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_107
+  - first:
+      213: 7013418256997902820
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_108
+  - first:
+      213: 8913015907175834900
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_109
+  - first:
+      213: -41199625739794157
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_110
+  - first:
+      213: -7526541515154236198
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_111
+  - first:
+      213: -4504218074576155643
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_112
+  - first:
+      213: -7269421515261564734
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_113
+  - first:
+      213: -6286215235704183078
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_114
+  - first:
+      213: -6484842907567128271
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_115
+  - first:
+      213: -7015910178322232437
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_116
+  - first:
+      213: -4791177355539924240
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_117
+  - first:
+      213: -8825098074717265478
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_118
+  - first:
+      213: 8435169650019977636
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Overworld Sprites (1)_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44d5fdb1a52a1040800000000000000
+      internalID: 4619045744428831819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 270
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cfd750c991f6da0800000000000000
+      internalID: -5949508424835400561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 270
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a18d901a7929f10800000000000000
+      internalID: 2275047479686208055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 270
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b218f517459ee0b0800000000000000
+      internalID: -5697452346033302860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 270
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27afc312f8d0fc500800000000000000
+      internalID: 418568198757874290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 270
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6472d1c77fd9f3fe0800000000000000
+      internalID: -1207072488847235258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 270
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a52950267a4e800800000000000000
+      internalID: 640821086435564097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc983cbcfffc5ba0800000000000000
+      internalID: -6098718334411825995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 270
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56fe334aa7ce33b0800000000000000
+      internalID: -5530763758277822881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 270
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29b4e36949a46230800000000000000
+      internalID: 3631213332241103147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 246
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b405772dcc963d0800000000000000
+      internalID: -3212811654835188872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 246
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c75f7824e8ae2060800000000000000
+      internalID: 6930662574455216066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 246
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870e65ed4ea11f0f0800000000000000
+      internalID: -1085056464934477704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 246
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bd903363de38f70800000000000000
+      internalID: 9188448481806244678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 246
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05533bb1bc1f5a610800000000000000
+      internalID: 1631976294637057360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 246
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8044df3727d6cf250800000000000000
+      internalID: 5979774743580853256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 246
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df5823da1a624d60800000000000000
+      internalID: 7872971762041380816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 246
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a7e2955a6893c70800000000000000
+      internalID: 8951333779099515529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 246
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203ba3bfb32badf30800000000000000
+      internalID: 4601185940000125698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 246
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e5528d652a398b0800000000000000
+      internalID: -5146591455277130103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e871511fd0e87d250800000000000000
+      internalID: 5969396021633292174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 222
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794dccb48618262c0800000000000000
+      internalID: -4439843997685590889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 222
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ac790e5f0dedc0800000000000000
+      internalID: -3608210829893393862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 222
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f5fcd869763430800000000000000
+      internalID: 3762328030005295127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 222
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb7fb8fa4e27a150800000000000000
+      internalID: 5883722337718598583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 222
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f58373be9238150800000000000000
+      internalID: 5873584429241753361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 222
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf226dc46ca447c0800000000000000
+      internalID: -4087953012803096610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b828bf61c3593faa0800000000000000
+      internalID: -6128390582604954997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 222
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410901836f2368a50800000000000000
+      internalID: 6522957143376695316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 222
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768aeaddba9a7a6d0800000000000000
+      internalID: -2979226072858580889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b99a8a6042c6ef70800000000000000
+      internalID: 9216267269381462449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda8861e8636bc90800000000000000
+      internalID: -7154470974140142127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ca9d1b9ea655b0800000000000000
+      internalID: -5379920723607632311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b559c54f63692950800000000000000
+      internalID: 6424775672984065464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0240f9867408da600800000000000000
+      internalID: 481181779384796192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9ac1f56bf20220800000000000000
+      internalID: 2450797562509826814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d629a9ca730ff930800000000000000
+      internalID: 4179062805127309012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e79f58118ab9d5d0800000000000000
+      internalID: -3037191410062223384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edc7e5d28f6a41f0800000000000000
+      internalID: -1059912154567160351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 198
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70023af950a3923f0800000000000000
+      internalID: -925144452620410873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6ab60e451309b80800000000000000
+      internalID: -8390151865179068713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d848950ddb786bad0800000000000000
+      internalID: -2686810878365825907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 174
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae203b99b2a5590800000000000000
+      internalID: -7684781875021026599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 174
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6b80f38163292f0800000000000000
+      internalID: -967651492166584627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b885aee90b2600800000000000000
+      internalID: 444459908810193092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde28613658e80460800000000000000
+      internalID: 7208266660500221663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b2e71b2197e8f0800000000000000
+      internalID: -511280418412907376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 174
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6082bd186371a60800000000000000
+      internalID: 7644638823840220851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3791f14bd39fa3cc0800000000000000
+      internalID: -3730395297912776333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 174
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a944f65f26c010800000000000000
+      internalID: 1208705600507717890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b0f197f896874d0800000000000000
+      internalID: -3136641075530232949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4ab5ebf2dc47bd0800000000000000
+      internalID: -2633254277164063511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de09283e13dcff0800000000000000
+      internalID: -14300370594370285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242d79cadf43f1e40800000000000000
+      internalID: 5629276323363410498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 150
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dd4a1c187fc9240800000000000000
+      internalID: 4799983439541755251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 150
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928add930f4670710800000000000000
+      internalID: 1659405970635073577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 150
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1357cd76e6a029e50800000000000000
+      internalID: 6814520655470163249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d96a7bf9dd365af0800000000000000
+      internalID: -408070709794149928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ece1802a43f380800000000000000
+      internalID: -8938719331921107864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c597365042a8fcb00800000000000000
+      internalID: 851050741910174044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66daab59dd266ff0800000000000000
+      internalID: -43296734844365205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448dfc91ea84d0380800000000000000
+      internalID: -9003460167449192380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_62
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 126
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8cf3f8cf548ab90800000000000000
+      internalID: -7230452250705934121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 126
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2b02001f8cd7c30800000000000000
+      internalID: 4358860951779324637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53caf5e6836693f40800000000000000
+      internalID: 5708706395224779829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ac89e4779ccf1f0800000000000000
+      internalID: -1009710702180906444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfccecf3230af6f0800000000000000
+      internalID: -650203743099498538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5607dee491a301460800000000000000
+      internalID: 7210326883792941157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 126
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443fd9ec0f88354f0800000000000000
+      internalID: -841178137548164284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 126
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4068cbd3a9c82f400800000000000000
+      internalID: 356501914604307972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 102
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d1fea7be43099b0800000000000000
+      internalID: -5075498594062099056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ba33cfce0298020800000000000000
+      internalID: 2344441283238669159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_72
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 102
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba558bde301a1d0800000000000000
+      internalID: -3341385128997442631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bfd0838807a1c10800000000000000
+      internalID: 2025054712814762902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 102
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c0b9de78c350e80800000000000000
+      internalID: -8213091790935618475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 102
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb31e8e96581bf2b0800000000000000
+      internalID: -5549815355497638981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 102
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef28398d2c68e80800000000000000
+      internalID: -8176633838000996640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_77
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54cd9e26d940da90800000000000000
+      internalID: -7291246612458912678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 102
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ff64004f5f69200800000000000000
+      internalID: 186606862907932494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5587b03c8fa317020800000000000000
+      internalID: 2337714521680607317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb7dc81bb3d6be50800000000000000
+      internalID: 6824875085855030259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f631c240e28de00800000000000000
+      internalID: 1069655506954710831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_82
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 78
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f157b90d6f53cf40800000000000000
+      internalID: 5747542471373967865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984fadb931616680800000000000000
+      internalID: -8763616499262863201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ecaba143a61a1e0800000000000000
+      internalID: -2188351171906056612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ab4313920b5f630800000000000000
+      internalID: 3960265138307906151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_86
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1926eba66dea30800000000000000
+      internalID: 4246162912167141288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_87
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc3358b5f278b50800000000000000
+      internalID: 6595292249430674856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_88
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 78
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f6a524a8d469880800000000000000
+      internalID: -8604604781830705274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 78
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce3ad39e7d8d8040800000000000000
+      internalID: 4651529564929539788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7d0d4988cbec310800000000000000
+      internalID: 1427285426721314791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4856ed585db3e40800000000000000
+      internalID: 5637334129522869487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_92
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 54
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f6ef8cf0e707130800000000000000
+      internalID: 3562485911511789363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c83fb88e6270dd0800000000000000
+      internalID: -2520002686268240810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184029c77b2239220800000000000000
+      internalID: 2491373190330320001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde6076e645b04960800000000000000
+      internalID: 7584261088610381533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_96
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f198462a5b9b5a00800000000000000
+      internalID: 746360974751601143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_97
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87c520d32758980800000000000000
+      internalID: -8537291912252720956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_98
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92f2f81679658d70800000000000000
+      internalID: 9044751382589141658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 54
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23beae75860ce680800000000000000
+      internalID: -8724591207697698006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81336b6f546ba9a0800000000000000
+      internalID: -6220768099295874673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12f953eee7f0800800000000000000
+      internalID: 580822438521020862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_102
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 30
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9fdf3ab7595e6a0800000000000000
+      internalID: -6420561335481927240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2946d6a662861c5f0800000000000000
+      internalID: -738194349708450670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 30
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b2beacebe9e8700800000000000000
+      internalID: 544547147243793165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 30
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11887ae19910e3640800000000000000
+      internalID: 5061484788366936081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 30
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee11e223faf848fd0800000000000000
+      internalID: -2340587923701886482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 30
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae79d3f7c5c64450800000000000000
+      internalID: 6072758610135973536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9699dfebaa45160800000000000000
+      internalID: 7013418256997902820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4152f909eb461bb70800000000000000
+      internalID: 8913015907175834900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31986ee9821ad6ff0800000000000000
+      internalID: -41199625739794157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc500a8e5a5c8790800000000000000
+      internalID: -7526541515154236198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_112
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c8ef9868dcd71c0800000000000000
+      internalID: -4504218074576155643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_113
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8a04c95a3dd1b90800000000000000
+      internalID: -7269421515261564734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_114
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad624368c80e2c8a0800000000000000
+      internalID: -6286215235704183078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1310046dbb53106a0800000000000000
+      internalID: -6484842907567128271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_116
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b4e0d5dda72ae90800000000000000
+      internalID: -7015910178322232437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_117
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fab5237491528db0800000000000000
+      internalID: -4791177355539924240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab16e74fe04f68580800000000000000
+      internalID: -8825098074717265478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Overworld Sprites (1)_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c891fa1ebf0570800000000000000
+      internalID: 8435169650019977636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_0: 4619045744428831819
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_1: -5949508424835400561
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_10: -3212811654835188872
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_100: -6220768099295874673
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_101: 580822438521020862
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_102: -6420561335481927240
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_103: -738194349708450670
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_104: 544547147243793165
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_105: 5061484788366936081
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_106: -2340587923701886482
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_107: 6072758610135973536
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_108: 7013418256997902820
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_109: 8913015907175834900
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_11: 6930662574455216066
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_110: -41199625739794157
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_111: -7526541515154236198
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_112: -4504218074576155643
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_113: -7269421515261564734
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_114: -6286215235704183078
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_115: -6484842907567128271
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_116: -7015910178322232437
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_117: -4791177355539924240
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_118: -8825098074717265478
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_119: 8435169650019977636
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_12: -1085056464934477704
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_13: 9188448481806244678
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_14: 1631976294637057360
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_15: 5979774743580853256
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_16: 7872971762041380816
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_17: 8951333779099515529
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_18: 4601185940000125698
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_19: -5146591455277130103
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_2: 2275047479686208055
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_20: 5969396021633292174
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_21: -4439843997685590889
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_22: -3608210829893393862
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_23: 3762328030005295127
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_24: 5883722337718598583
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_25: 5873584429241753361
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_26: -4087953012803096610
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_27: -6128390582604954997
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_28: 6522957143376695316
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_29: -2979226072858580889
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_3: -5697452346033302860
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_30: 9216267269381462449
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_31: -7154470974140142127
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_32: -5379920723607632311
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_33: 6424775672984065464
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_34: 481181779384796192
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_35: 2450797562509826814
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_36: 4179062805127309012
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_37: -3037191410062223384
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_38: -1059912154567160351
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_39: -925144452620410873
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_4: 418568198757874290
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_40: -8390151865179068713
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_41: -2686810878365825907
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_42: -7684781875021026599
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_43: -967651492166584627
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_44: 444459908810193092
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_45: 7208266660500221663
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_46: -511280418412907376
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_47: 7644638823840220851
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_48: -3730395297912776333
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_49: 1208705600507717890
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_5: -1207072488847235258
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_50: -3136641075530232949
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_51: -2633254277164063511
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_52: -14300370594370285
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_53: 5629276323363410498
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_54: 4799983439541755251
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_55: 1659405970635073577
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_56: 6814520655470163249
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_57: -408070709794149928
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_58: -8938719331921107864
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_59: 851050741910174044
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_6: 640821086435564097
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_60: -43296734844365205
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_61: -9003460167449192380
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_62: -7230452250705934121
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_63: 4358860951779324637
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_64: 5708706395224779829
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_65: -1009710702180906444
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_66: -650203743099498538
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_67: 7210326883792941157
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_68: -841178137548164284
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_69: 356501914604307972
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_7: -6098718334411825995
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_70: -5075498594062099056
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_71: 2344441283238669159
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_72: -3341385128997442631
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_73: 2025054712814762902
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_74: -8213091790935618475
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_75: -5549815355497638981
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_76: -8176633838000996640
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_77: -7291246612458912678
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_78: 186606862907932494
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_79: 2337714521680607317
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_8: -5530763758277822881
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_80: 6824875085855030259
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_81: 1069655506954710831
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_82: 5747542471373967865
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_83: -8763616499262863201
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_84: -2188351171906056612
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_85: 3960265138307906151
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_86: 4246162912167141288
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_87: 6595292249430674856
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_88: -8604604781830705274
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_89: 4651529564929539788
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_9: 3631213332241103147
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_90: 1427285426721314791
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_91: 5637334129522869487
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_92: 3562485911511789363
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_93: -2520002686268240810
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_94: 2491373190330320001
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_95: 7584261088610381533
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_96: 746360974751601143
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_97: -8537291912252720956
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_98: 9044751382589141658
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Overworld Sprites (1)_99: -8724591207697698006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
