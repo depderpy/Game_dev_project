@@ -21,6 +21,9 @@ public class player : MonoBehaviour
     private Vector2 moveDirection;
     private bool IsMoving;
     private bool in_battlezone;
+    private Vector3 facingDirection;
+    
+    public LayerMask obstacleLayer; 
     
     void Start()
     {
@@ -46,10 +49,17 @@ public class player : MonoBehaviour
 
         else if (Input.GetKey(KeyCode.D))
             startMove(Vector3.right);
+
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            interact();
+        }
     }
 
     private void startMove(Vector3 direction)
     {
+        facingDirection = direction;
+
         //this is calculating how far the player has to move based on the direction they are facing and the tile (since tile size is always 1 so tilesize is just there to keep it consistent)
         targetPosition = transform.position + (direction * tileSize);
         IsMoving = true;
@@ -69,7 +79,28 @@ public class player : MonoBehaviour
             IsMoving = false;
         }
         CheckForEncounters();
+        
     }
+
+    private void interact()
+    {
+        Vector3 interactPoint = transform.position + facingDirection;
+
+    }
+
+    private bool Iswalkable(Vector3 position)
+    {
+        Collider2D obstacle = Physics2D.OverlapCircle(position, 0.2f, obstacleLayer);
+
+        if(obstacle != null)
+        {
+            Debug.Log("you bumped into something");
+            return false;
+        }
+        return true;
+    }
+
+
     private void CheckForEncounters()
     {
         if(!in_battlezone) return;
