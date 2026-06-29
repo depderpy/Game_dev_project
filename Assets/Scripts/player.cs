@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 
+
 public class player : MonoBehaviour
 {
 
@@ -28,20 +29,44 @@ public class player : MonoBehaviour
 
     private void Update()
     {
-            moveDirection.x = Input.GetAxisRaw("Horizontal");
-            moveDirection.y = Input.GetAxisRaw("Vertical");
-        move();
+        if(IsMoving)
+        {
+            MoveToTile();
+            return;
+        }
+
+        if (Input.GetKey(KeyCode.W))
+            startMove(Vector3.up);
+
+        else if (Input.GetKey(KeyCode.S))
+            startMove(Vector3.down);
+
+        else if (Input.GetKey(KeyCode.A))
+            startMove(Vector3.left);
+
+        else if (Input.GetKey(KeyCode.D))
+            startMove(Vector3.right);
     }
 
-    private void move()
+    private void startMove(Vector3 direction)
     {
-        if(moveDirection  != Vector2.zero)
+        targetPosition = transform.position + (direction * tileSize);
+        IsMoving = true;
+    }
+
+    private void MoveToTile()
+    {
+        transform.position = Vector3.MoveTowards(
+            transform.position, targetPosition, movementspeed * Time.deltaTime
+        );
+
+        if(Vector3.Distance(transform.position, targetPosition) < 0.01f)
         {
-            transform.position = (moveDirection.normalized * movementspeed * Time.deltaTime) + (Vector2)transform.position;
+            transform.position = targetPosition;
+            IsMoving = false;
         }
         CheckForEncounters();
     }
-
     private void CheckForEncounters()
     {
         if(!in_battlezone) return;

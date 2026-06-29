@@ -3311,7 +3311,7 @@ Transform:
   m_GameObject: {fileID: 471483853}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.022314, y: -1.2194457, z: -10}
+  m_LocalPosition: {x: 7.86527, y: 1.4882, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3524,7 +3524,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.022314, y: -1.2194457, z: -10}
+  m_LocalPosition: {x: 7.86527, y: 1.4882, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3684,7 +3684,7 @@ Transform:
   m_GameObject: {fileID: 738936940}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.5, y: 0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3780,7 +3780,7 @@ Transform:
   m_GameObject: {fileID: 758839695}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.887584, y: -1.7076457, z: 0}
+  m_LocalPosition: {x: 7, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -3801,6 +3801,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::player
   encounterNum: 100
   movementspeed: 5
+  tileSize: 1
   _battletile: {fileID: 1896146821}
   _tiledetector: {fileID: 1679083768}
 --- !u!61 &758839699
@@ -3961,7 +3962,7 @@ Transform:
   m_GameObject: {fileID: 1144046855}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.34, z: 0}
+  m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
