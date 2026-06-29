@@ -50,10 +50,13 @@ public class player : MonoBehaviour
 
     private void startMove(Vector3 direction)
     {
+        //this is calculating how far the player has to move based on the direction they are facing and the tile (since tile size is always 1 so tilesize is just there to keep it consistent)
         targetPosition = transform.position + (direction * tileSize);
         IsMoving = true;
     }
 
+
+    //This function basically moves the player to the specific tile while the player is holding down a key 
     private void MoveToTile()
     {
         transform.position = Vector3.MoveTowards(
