@@ -9,11 +9,13 @@ public class player : MonoBehaviour
 
     [SerializeField] private float encounterNum = 100;
     [SerializeField] private float movementspeed = 5f;
+    [SerializeField] private float tileSize = 1f;
     [SerializeField] private Tilemap _battletile;
     [SerializeField] private GameObject _tiledetector;
+    
 
     private Vector3 _currentTilePosition;
-
+    private Vector3 targetPosition;
     private Rigidbody2D rb;
     private Vector2 moveDirection;
     private bool IsMoving;
@@ -21,7 +23,7 @@ public class player : MonoBehaviour
     
     void Start()
     {
-
+        targetPosition = transform.position;
     }
 
     private void Update()
