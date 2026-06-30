@@ -75,8 +75,9 @@ public class player : MonoBehaviour
         {
             animator.SetFloat("face_X", facingDirection.x);
             animator.SetFloat("face_Y", facingDirection.y);
-            animator.SetBool("isMoving", IsMoving);
+            
             IsMoving = true;
+            animator.SetBool("isMoving", IsMoving);
         } 
         
     }
@@ -91,6 +92,7 @@ public class player : MonoBehaviour
         {
             transform.position = targetPosition;
             IsMoving = false;
+            animator.SetBool("isMoving", IsMoving);
         }
         
         CheckForEncounters();
