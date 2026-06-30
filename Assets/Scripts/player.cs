@@ -22,10 +22,15 @@ public class player : MonoBehaviour
     private bool IsMoving;
     private bool in_battlezone;
     private Vector3 facingDirection;
-    
     public LayerMask obstacleLayer; 
     public LayerMask Interactable;
-    
+
+    private Animator animator;
+
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+    }
     void Start()
     {
         targetPosition = transform.position;
@@ -39,8 +44,9 @@ public class player : MonoBehaviour
             return;
         }
 
+        //Movement Keys 
         if (Input.GetKey(KeyCode.W))
-            startMove(Vector3.up);
+            startMove(Vector3.up);  
 
         else if (Input.GetKey(KeyCode.S))
             startMove(Vector3.down);
@@ -51,6 +57,8 @@ public class player : MonoBehaviour
         else if (Input.GetKey(KeyCode.D))
             startMove(Vector3.right);
 
+
+    //Interacting Key
         if (Input.GetKeyDown(KeyCode.E))
         {
             interact();
@@ -65,6 +73,9 @@ public class player : MonoBehaviour
         targetPosition = transform.position + (direction * tileSize);
        if(Iswalkable(targetPosition))
         {
+            animator.SetFloat("face_X", facingDirection.x);
+            animator.SetFloat("face_Y", facingDirection.y);
+            animator.SetBool("isMoving", IsMoving);
             IsMoving = true;
         } 
         
@@ -74,9 +85,7 @@ public class player : MonoBehaviour
     //This function basically moves the player to the specific tile while the player is holding down a key 
     private void MoveToTile()
     {
-        transform.position = Vector3.MoveTowards(
-            transform.position, targetPosition, movementspeed * Time.deltaTime
-        );
+        transform.position = Vector3.MoveTowards(transform.position, targetPosition, movementspeed * Time.deltaTime);
 
         if(Vector3.Distance(transform.position, targetPosition) < 0.01f)
         {
