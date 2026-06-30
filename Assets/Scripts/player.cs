@@ -24,6 +24,7 @@ public class player : MonoBehaviour
     private Vector3 facingDirection;
     
     public LayerMask obstacleLayer; 
+    public LayerMask Interactable;
     
     void Start()
     {
@@ -62,7 +63,11 @@ public class player : MonoBehaviour
 
         //this is calculating how far the player has to move based on the direction they are facing and the tile (since tile size is always 1 so tilesize is just there to keep it consistent)
         targetPosition = transform.position + (direction * tileSize);
-        IsMoving = true;
+       if(Iswalkable(targetPosition))
+        {
+            IsMoving = true;
+        } 
+        
     }
 
 
@@ -78,6 +83,7 @@ public class player : MonoBehaviour
             transform.position = targetPosition;
             IsMoving = false;
         }
+        
         CheckForEncounters();
         
     }
@@ -90,7 +96,7 @@ public class player : MonoBehaviour
 
     private bool Iswalkable(Vector3 position)
     {
-        Collider2D obstacle = Physics2D.OverlapCircle(position, 0.2f, obstacleLayer);
+        Collider2D obstacle = Physics2D.OverlapCircle(position, 0.2f, obstacleLayer | Interactable);
 
         if(obstacle != null)
         {
