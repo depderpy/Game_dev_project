@@ -101,8 +101,9 @@ public class player : MonoBehaviour
 
     private void interact()
     {
-        Vector3 interactPoint = transform.position + facingDirection;
-
+        var facingdir = new Vector3(animator.GetFloat("face_X"), animator.GetFloat("face_Y"));
+        var interactPos = transform.position + facingdir;
+        Debug.DrawLine(transform.position, interactPos, Color.red, 1f);
     }
 
     private bool Iswalkable(Vector3 position)
