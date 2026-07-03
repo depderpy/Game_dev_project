@@ -13,6 +13,8 @@ public class player : MonoBehaviour
     [SerializeField] private float tileSize = 1f;
     [SerializeField] private Tilemap _battletile;
     [SerializeField] private GameObject _tiledetector;
+    [SerializeField] private LayerMask obstacleLayer; 
+    [SerializeField] private LayerMask InteractableLayer;
     
 
     private Vector3 _currentTilePosition;
@@ -22,8 +24,7 @@ public class player : MonoBehaviour
     private bool IsMoving;
     private bool in_battlezone;
     private Vector3 facingDirection;
-    public LayerMask obstacleLayer; 
-    public LayerMask Interactable;
+    
 
     private Animator animator;
 
@@ -103,12 +104,20 @@ public class player : MonoBehaviour
     {
         var facingdir = new Vector3(animator.GetFloat("face_X"), animator.GetFloat("face_Y"));
         var interactPos = transform.position + facingdir;
-        Debug.DrawLine(transform.position, interactPos, Color.red, 1f);
+
+        //This is testing if the direction thing works
+        //Debug.DrawLine(transform.position, interactPos, Color.red, 1f);
+
+        var collider = Physics2D.OverlapCircle(interactPos,0.2f, InteractableLayer);
+        if (collider != null)
+        {
+            collider.GetComponent<Interactable>()?.Interact();
+        }
     }
 
     private bool Iswalkable(Vector3 position)
     {
-        Collider2D obstacle = Physics2D.OverlapCircle(position, 0.2f, obstacleLayer | Interactable);
+        Collider2D obstacle = Physics2D.OverlapCircle(position, 0.2f, obstacleLayer | InteractableLayer);
 
         if(obstacle != null)
         {

@@ -3809,7 +3809,7 @@ MonoBehaviour:
   obstacleLayer:
     serializedVersion: 2
     m_Bits: 64
-  Interactable:
+  InteractableLayer:
     serializedVersion: 2
     m_Bits: 512
 --- !u!61 &758839699
@@ -3850,7 +3850,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.875, y: 1.125}
+    oldSize: {x: 1.0625, y: 1.125}
     newSize: {x: 0.17, y: 0.18}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3919,8 +3919,9 @@ GameObject:
   - component: {fileID: 1144046856}
   - component: {fileID: 1144046859}
   - component: {fileID: 1144046858}
+  - component: {fileID: 1144046860}
   m_Layer: 9
-  m_Name: PC _ Computer - Final Fantasy (Pixel Remaster) - Miscellaneous - NPCs_224
+  m_Name: NPC 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4030,7 +4031,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -4073,6 +4074,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1144046860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1144046855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd467de4d1bca2e42bd5b973372304ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCController
 --- !u!1 &1679083768
 GameObject:
   m_ObjectHideFlags: 0
