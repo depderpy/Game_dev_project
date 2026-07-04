@@ -3985,7 +3985,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &945747004
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4003,8 +4003,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.000013351, y: 88}
-  m_SizeDelta: {x: 1000, y: 149.1422}
+  m_AnchoredPosition: {x: 30, y: 100}
+  m_SizeDelta: {x: 900, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &945747005
 MonoBehaviour:
@@ -4224,7 +4224,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCController
   dialog:
-    lines: []
+    lines:
+    - Hello there!!
+    - Welcome to the game
+    - 
 --- !u!1 &1464644152
 GameObject:
   m_ObjectHideFlags: 0
