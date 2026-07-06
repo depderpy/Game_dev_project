@@ -37,7 +37,7 @@ public class player : MonoBehaviour
         targetPosition = transform.position;
     }
 
-    private void Update()
+    public void HandleUpdate()
     {
         if(IsMoving)
         {
@@ -169,6 +169,8 @@ public class player : MonoBehaviour
             _currentTilePosition = new Vector3(-100000, -100000, -100000); //Random coord to reset the current tile position
         }
     }
+
+    
 }
-    //The Fixed update is for rendering all the physics 
+
     

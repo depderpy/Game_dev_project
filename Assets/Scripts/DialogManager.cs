@@ -27,7 +27,7 @@ public class DialogManager : MonoBehaviour
     public void HandleUpdate()
     {
         //This will handle the typing issue (It will ensure the NPC moves onto the next line and it will keep typing the currentline until it finishes)
-        if(Input.GetKeyDown(KeyCode.E) && !IsTyping())
+        if(Input.GetKeyDown(KeyCode.E) && !IsTyping)
         {
             ++CurrentLine;
             if(CurrentLine < dialog.Lines.Count)
@@ -37,6 +37,7 @@ public class DialogManager : MonoBehaviour
             else
             {
                 dialogBox.SetActive(false);
+                CurrentLine = 0;
                 OnHideDialog?.Invoke();
             }
         }
@@ -47,6 +48,8 @@ public class DialogManager : MonoBehaviour
         yield return new WaitForEndOfFrame();
 
         OnShowDialog?.Invoke();
+        
+        this.dialog = dialog;
         dialogBox.SetActive(true);
         StartCoroutine(TypeDialog(dialog.Lines[0]));
     }

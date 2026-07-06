@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     GameState state;
     [SerializeField] player playercontroller;
 
-    private void start()
+    private void Start()
     {
         DialogManager.Instance.OnShowDialog += ()=>
         {
@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviour
     }
     
 
-    private void update()
+    private void Update()
     {
         if(state == GameState.FreeRoam)
         {
