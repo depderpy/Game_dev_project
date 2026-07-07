@@ -1,0 +1,2189 @@
+fileFormatVersion: 2
+guid: 946db6eba7789824e9c6bea37847d39a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1527960812972417565
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_0
+  - first:
+      213: 5951565423986638186
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_1
+  - first:
+      213: 4202601562716326352
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_2
+  - first:
+      213: -7997199863093050345
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_3
+  - first:
+      213: -8101939870734485446
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_4
+  - first:
+      213: 7559179986192506006
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_5
+  - first:
+      213: -7159866664270560147
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_6
+  - first:
+      213: -4070811736047461294
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_7
+  - first:
+      213: 4084267967665745846
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_8
+  - first:
+      213: 3574024571049376261
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_9
+  - first:
+      213: -8934866304995249781
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_10
+  - first:
+      213: 585528274128187313
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_11
+  - first:
+      213: 443799051770149252
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_12
+  - first:
+      213: 7218044548642943253
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_13
+  - first:
+      213: -9183452352811309296
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_14
+  - first:
+      213: 6160430201048438857
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_15
+  - first:
+      213: -2565332365513581048
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_16
+  - first:
+      213: 2232347367019101667
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_17
+  - first:
+      213: -2197659254467696507
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_18
+  - first:
+      213: 6361488978690239671
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_19
+  - first:
+      213: -4276142388457623489
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_20
+  - first:
+      213: -2166615325601674883
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_21
+  - first:
+      213: -9030702038983531009
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_22
+  - first:
+      213: -1744506395584892765
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_23
+  - first:
+      213: 2755142639883413637
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_24
+  - first:
+      213: 101069172473662228
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_25
+  - first:
+      213: -1772751898859619558
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_26
+  - first:
+      213: -6604175485050190881
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_27
+  - first:
+      213: -1470090184295832865
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_28
+  - first:
+      213: 2464842324237534058
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_29
+  - first:
+      213: -1507147735083988217
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_30
+  - first:
+      213: -7413831667562785459
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_31
+  - first:
+      213: -1764106791914141324
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_32
+  - first:
+      213: 380852708988926522
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_33
+  - first:
+      213: 936283314179420815
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_34
+  - first:
+      213: 7192540091892046408
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_35
+  - first:
+      213: -1278571137589581888
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_36
+  - first:
+      213: -4143184359057532540
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_37
+  - first:
+      213: 6224357317227696636
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_38
+  - first:
+      213: -6917295341387928433
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_39
+  - first:
+      213: 7262829773819430281
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_40
+  - first:
+      213: -1515284493228041647
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_41
+  - first:
+      213: -4440851938662798240
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_42
+  - first:
+      213: 8729329428241387639
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_43
+  - first:
+      213: -8145754459183659509
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_44
+  - first:
+      213: 236993415212754657
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_45
+  - first:
+      213: 7095913408049014264
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_46
+  - first:
+      213: 576817508923244297
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_47
+  - first:
+      213: -2265712060895697302
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_48
+  - first:
+      213: 7246022853058878780
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_49
+  - first:
+      213: -5565318465277666661
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_50
+  - first:
+      213: -5173111472929609145
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_51
+  - first:
+      213: -4457871694933549782
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_52
+  - first:
+      213: 3288322880572183185
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_53
+  - first:
+      213: 1041566420839664576
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_54
+  - first:
+      213: 162509524805821255
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_55
+  - first:
+      213: 8539565746083107375
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_56
+  - first:
+      213: -6162516872989227644
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_57
+  - first:
+      213: -3230483854503529711
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_58
+  - first:
+      213: 3397967517748538900
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_59
+  - first:
+      213: -2637814536051500896
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_60
+  - first:
+      213: 7085282576020062575
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_61
+  - first:
+      213: 3816481403872997042
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_62
+  - first:
+      213: -8609425899536284821
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_63
+  - first:
+      213: -725502976211517966
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_64
+  - first:
+      213: 6717879335446787376
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_65
+  - first:
+      213: -8441366336018991117
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_66
+  - first:
+      213: 4666125073221186973
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_67
+  - first:
+      213: -5097934391255419235
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_68
+  - first:
+      213: 3368499414243647859
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_69
+  - first:
+      213: 8277391701296567338
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_70
+  - first:
+      213: -811552210804409590
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_71
+  - first:
+      213: 7358130071844013145
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_72
+  - first:
+      213: -4952604950109145085
+    second: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+      Backgrounds_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2413
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eddf007cb79bcae0800000000000000
+      internalID: -1527960812972417565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2413
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d783a6835389250800000000000000
+      internalID: 5951565423986638186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2413
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9453edad3a25a30800000000000000
+      internalID: 4202601562716326352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2413
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7144982781d340190800000000000000
+      internalID: -7997199863093050345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2281
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38fb4d0d90209f80800000000000000
+      internalID: -8101939870734485446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2280
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c1f3ea52a97e860800000000000000
+      internalID: 7559179986192506006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2281
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d640ef4143b03ac90800000000000000
+      internalID: -7159866664270560147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2281
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c566d4b429187c0800000000000000
+      internalID: -4070811736047461294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2146
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2934c31c3ea830800000000000000
+      internalID: 4084267967665745846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2146
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a7aef496c799130800000000000000
+      internalID: 3574024571049376261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2145
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81b62f3f6af00480800000000000000
+      internalID: -8934866304995249781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2145
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfab51fcd6302800800000000000000
+      internalID: 585528274128187313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2012
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4893a60e2e0b82600800000000000000
+      internalID: 443799051770149252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2012
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511bece2645ab2460800000000000000
+      internalID: 7218044548642943253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2012
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017e4fabdb2dd8080800000000000000
+      internalID: -9183452352811309296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2012
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9489415e0ae3e7550800000000000000
+      internalID: 6160430201048438857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1880
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e10c62ecb166cd0800000000000000
+      internalID: -2565332365513581048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1879
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edb3725a14eafe10800000000000000
+      internalID: 2232347367019101667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1878
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5886a104d885081e0800000000000000
+      internalID: -2197659254467696507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1877
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bce461858c884850800000000000000
+      internalID: 6361488978690239671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1746
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f303ef6572718a4c0800000000000000
+      internalID: -4276142388457623489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1746
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79489037d2aee1e0800000000000000
+      internalID: -2166615325601674883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1745
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5adfd97508ca280800000000000000
+      internalID: -9030702038983531009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1745
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f3ce0da44ac7e0800000000000000
+      internalID: -1744506395584892765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1613
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58868c332ab3c3620800000000000000
+      internalID: 2755142639883413637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1613
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b090b70e1176100800000000000000
+      internalID: 101069172473662228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1613
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bb2995a8be567e0800000000000000
+      internalID: -1772751898859619558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1613
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd38d3303614954a0800000000000000
+      internalID: -6604175485050190881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1479
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2224924c0399be0800000000000000
+      internalID: -1470090184295832865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1479
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c68bd801e43220800000000000000
+      internalID: 2464842324237534058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_30
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1478
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc842ce19851be0800000000000000
+      internalID: -1507147735083988217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_31
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1478
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d066e067cc1990800000000000000
+      internalID: -7413831667562785459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1346
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4798a1a2832a487e0800000000000000
+      internalID: -1764106791914141324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_33
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1346
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ab70f558f094500800000000000000
+      internalID: 380852708988926522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1214
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f823acea6b85efc00800000000000000
+      internalID: 936283314179420815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1214
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a1bf91b1901d360800000000000000
+      internalID: 7192540091892046408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_36
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1214
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e7e3135a914ee0800000000000000
+      internalID: -1278571137589581888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_37
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1215
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489db67e6c37086c0800000000000000
+      internalID: -4143184359057532540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1080
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1d570800c516650800000000000000
+      internalID: 6224357317227696636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1080
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cab125984d000a0800000000000000
+      internalID: -6917295341387928433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1080
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98543acf231cac460800000000000000
+      internalID: 7262829773819430281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_41
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1080
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a1c7f18c0a8fae0800000000000000
+      internalID: -1515284493228041647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 947
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c26efb0bcee52c0800000000000000
+      internalID: -4440851938662798240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_43
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 947
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77011b17ddec42970800000000000000
+      internalID: 8729329428241387639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_44
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 947
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06cdc83a7774fe80800000000000000
+      internalID: -8145754459183659509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_45
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 947
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6ecd76148f94300800000000000000
+      internalID: 236993415212754657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 813
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f561bb16afb97260800000000000000
+      internalID: 7095913408049014264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 813
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f789fd774410800800000000000000
+      internalID: 576817508923244297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_48
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 812
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a666ef682e29e80e0800000000000000
+      internalID: -2265712060895697302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_49
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 812
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ddfeec46b0f8460800000000000000
+      internalID: 7246022853058878780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 678
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ad337975404c2b0800000000000000
+      internalID: -5565318465277666661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_51
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 677
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a6880168a6538b0800000000000000
+      internalID: -5173111472929609145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 677
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d9731ff457222c0800000000000000
+      internalID: -4457871694933549782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_53
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 677
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925b43dc3872ad20800000000000000
+      internalID: 3288322880572183185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 544
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb8f1c2423647e00800000000000000
+      internalID: 1041566420839664576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 543
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7432ba24d89514200800000000000000
+      internalID: 162509524805821255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 543
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22906f2dc1a28670800000000000000
+      internalID: 8539565746083107375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 543
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485402fed875a7aa0800000000000000
+      internalID: -6162516872989227644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113bea7dc040b23d0800000000000000
+      internalID: -3230483854503529711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 408
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea7b54471082f20800000000000000
+      internalID: 3397967517748538900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_60
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 408
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d94bb7a9946bd0800000000000000
+      internalID: -2637814536051500896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_61
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 408
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61c0f4a6faf35260800000000000000
+      internalID: 7085282576020062575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 275
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beebb1cd9dd6f430800000000000000
+      internalID: 3816481403872997042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_63
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 274
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63871252cc258880800000000000000
+      internalID: -8609425899536284821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_64
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 274
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd7c6313ee7ee5f0800000000000000
+      internalID: -725502976211517966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_65
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 274
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0353e39a9a3ba3d50800000000000000
+      internalID: 6717879335446787376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 140
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7b5aaaa0e3ada80800000000000000
+      internalID: -8441366336018991117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_67
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 140
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9574ea280861c040800000000000000
+      internalID: 4666125073221186973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 140
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9639f06eaf7049b0800000000000000
+      internalID: -5097934391255419235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_69
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 140
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371aa14ce505fbe20800000000000000
+      internalID: 3368499414243647859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a245c8695e33fd270800000000000000
+      internalID: 8277391701296567338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_71
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bf1566099ccb4f0800000000000000
+      internalID: -811552210804409590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_72
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 8
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954c167b0545d1660800000000000000
+      internalID: 7358130071844013145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle
+        Backgrounds_73
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 8
+        width: 242
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30837e3b900d44bb0800000000000000
+      internalID: -4952604950109145085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_0: -1527960812972417565
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_1: 5951565423986638186
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_10: -8934866304995249781
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_11: 585528274128187313
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_12: 443799051770149252
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_13: 7218044548642943253
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_14: -9183452352811309296
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_15: 6160430201048438857
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_16: -2565332365513581048
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_17: 2232347367019101667
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_18: -2197659254467696507
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_19: 6361488978690239671
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_2: 4202601562716326352
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_20: -4276142388457623489
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_21: -2166615325601674883
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_22: -9030702038983531009
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_23: -1744506395584892765
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_24: 2755142639883413637
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_25: 101069172473662228
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_26: -1772751898859619558
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_27: -6604175485050190881
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_28: -1470090184295832865
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_29: 2464842324237534058
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_3: -7997199863093050345
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_30: -1507147735083988217
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_31: -7413831667562785459
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_32: -1764106791914141324
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_33: 380852708988926522
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_34: 936283314179420815
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_35: 7192540091892046408
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_36: -1278571137589581888
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_37: -4143184359057532540
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_38: 6224357317227696636
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_39: -6917295341387928433
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_4: -8101939870734485446
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_40: 7262829773819430281
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_41: -1515284493228041647
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_42: -4440851938662798240
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_43: 8729329428241387639
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_44: -8145754459183659509
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_45: 236993415212754657
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_46: 7095913408049014264
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_47: 576817508923244297
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_48: -2265712060895697302
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_49: 7246022853058878780
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_5: 7559179986192506006
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_50: -5565318465277666661
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_51: -5173111472929609145
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_52: -4457871694933549782
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_53: 3288322880572183185
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_54: 1041566420839664576
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_55: 162509524805821255
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_56: 8539565746083107375
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_57: -6162516872989227644
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_58: -3230483854503529711
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_59: 3397967517748538900
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_6: -7159866664270560147
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_60: -2637814536051500896
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_61: 7085282576020062575
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_62: 3816481403872997042
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_63: -8609425899536284821
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_64: -725502976211517966
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_65: 6717879335446787376
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_66: -8441366336018991117
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_67: 4666125073221186973
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_68: -5097934391255419235
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_69: 3368499414243647859
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_7: -4070811736047461294
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_70: 8277391701296567338
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_71: -811552210804409590
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_72: 7358130071844013145
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_73: -4952604950109145085
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_8: 4084267967665745846
+      Game Boy Advance - Final Fantasy I_ Dawn of Souls - Miscellaneous - Battle Backgrounds_9: 3574024571049376261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

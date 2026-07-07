@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using System.Collections;
 using System.Collections.Generic;
+using System;
 
 
 
@@ -24,6 +25,9 @@ public class player : MonoBehaviour
     private bool IsMoving;
     private bool in_battlezone;
     private Vector3 facingDirection;
+
+    public bool InBattle;
+    public event Action OnEncounter;
     
 
     private Animator animator;
@@ -122,6 +126,8 @@ public class player : MonoBehaviour
         if(obstacle != null)
         {
             Debug.Log("you bumped into something");
+            
+
             return false;
         }
         return true;
@@ -144,10 +150,11 @@ public class player : MonoBehaviour
 
         _currentTilePosition = (Vector3)tilePosition;
 
-        int randomNum = Random.Range(0, 500);
+        int randomNum = UnityEngine.Random.Range(0, 500);
         if(randomNum < encounterNum)
         {
             Debug.Log("Encounter!!");
+            OnEncounter?.Invoke();
         }
     }
 
