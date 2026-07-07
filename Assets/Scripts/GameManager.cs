@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 
-public enum  GameState {FreeRoam, Dialog}
+public enum  GameState {FreeRoam, Dialog, Battle}
 
 public class GameManager : MonoBehaviour
 {

@@ -1,0 +1,3490 @@
+fileFormatVersion: 2
+guid: 08f3033548392284da74f5fe4e7360c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2224852524501987546
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_0
+  - first:
+      213: 6798787117019977920
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_1
+  - first:
+      213: 4182567090840596495
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_2
+  - first:
+      213: -5918973630845834722
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_3
+  - first:
+      213: 819871878364045619
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_4
+  - first:
+      213: 733335099020399172
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_5
+  - first:
+      213: 1601268197941003654
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_6
+  - first:
+      213: 2328741438557944001
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_7
+  - first:
+      213: 3260978450691569046
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_8
+  - first:
+      213: -2689086640804368859
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_9
+  - first:
+      213: -7373968860926411631
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_10
+  - first:
+      213: 4858315434117788012
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_11
+  - first:
+      213: -6942764764764650988
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_12
+  - first:
+      213: 1032902448665006650
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_13
+  - first:
+      213: -374859637789390396
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_14
+  - first:
+      213: -4575999421703629837
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_15
+  - first:
+      213: -5280374884410223904
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_16
+  - first:
+      213: -6207774352491843840
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_17
+  - first:
+      213: -5556291814207784849
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_18
+  - first:
+      213: -7546950278367786367
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_19
+  - first:
+      213: -7071997621728826904
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_20
+  - first:
+      213: -5697887546290543619
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_21
+  - first:
+      213: 9011297275901266964
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_22
+  - first:
+      213: 1724426754145215131
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_23
+  - first:
+      213: 7452325476717936863
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_24
+  - first:
+      213: -2546109517353426294
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_25
+  - first:
+      213: 7645156070607378819
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_26
+  - first:
+      213: -6550351255119332529
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_27
+  - first:
+      213: 5595811859275868658
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_28
+  - first:
+      213: 665974618311463215
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_29
+  - first:
+      213: 2830412456687893475
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_30
+  - first:
+      213: 6888488918621063625
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_31
+  - first:
+      213: 5794600538046279794
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_32
+  - first:
+      213: 8997873252311905254
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_33
+  - first:
+      213: 7133247778474623594
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_34
+  - first:
+      213: -245063592517162792
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_35
+  - first:
+      213: 4398156819147833605
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_36
+  - first:
+      213: 3410209111488418674
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_37
+  - first:
+      213: 244012002280028755
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_38
+  - first:
+      213: -5827463979593725376
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_39
+  - first:
+      213: 2128290166036037968
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_40
+  - first:
+      213: -4361666225016054309
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_41
+  - first:
+      213: 6012547155166387349
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_42
+  - first:
+      213: 2805067623093369797
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_43
+  - first:
+      213: 7869270395137795232
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_44
+  - first:
+      213: -3345135591915592127
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_45
+  - first:
+      213: 3475325189285600190
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_46
+  - first:
+      213: 1325777167671879053
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_47
+  - first:
+      213: 5286301605098165752
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_48
+  - first:
+      213: -3958350655486095173
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_49
+  - first:
+      213: -5922949135238066371
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_50
+  - first:
+      213: 6150184804959133087
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_51
+  - first:
+      213: 8588283244529925775
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_52
+  - first:
+      213: 5179858600575635434
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_53
+  - first:
+      213: 5153392332334560048
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_54
+  - first:
+      213: -2082706661180606483
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_55
+  - first:
+      213: 8045798970630989973
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_56
+  - first:
+      213: 3583319400600493755
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_57
+  - first:
+      213: 7462786838073857599
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_58
+  - first:
+      213: -3649253201119273429
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_59
+  - first:
+      213: -5296081869842064497
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_60
+  - first:
+      213: -4491790408928318389
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_61
+  - first:
+      213: 5029635735514750986
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_62
+  - first:
+      213: -4190075072182889812
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_63
+  - first:
+      213: 5420526282336164862
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_64
+  - first:
+      213: -6121099434779387665
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_65
+  - first:
+      213: 2810225267249900983
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_66
+  - first:
+      213: 6396686704201284935
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_67
+  - first:
+      213: -5554871079670515405
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_68
+  - first:
+      213: -6945594710136832511
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_69
+  - first:
+      213: 8648617728558334170
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_70
+  - first:
+      213: 7451723794350190135
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_71
+  - first:
+      213: 5122491339523212131
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_72
+  - first:
+      213: -5530769483008068235
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_73
+  - first:
+      213: -223771805699249479
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_74
+  - first:
+      213: -8300902840403198290
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_75
+  - first:
+      213: 4970529582040369026
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_76
+  - first:
+      213: 3800621900484457580
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_77
+  - first:
+      213: -5447577177650061136
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_78
+  - first:
+      213: 9084602614679527933
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_79
+  - first:
+      213: 6468035427344169550
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_80
+  - first:
+      213: -698002491078370014
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_81
+  - first:
+      213: 7526379054335765328
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_82
+  - first:
+      213: -6712171505776029439
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_83
+  - first:
+      213: 3623910927672530595
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_84
+  - first:
+      213: -1289547539954160263
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_85
+  - first:
+      213: 2446989841014793810
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_86
+  - first:
+      213: -5850704396204618270
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_87
+  - first:
+      213: 8524992368194802394
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_88
+  - first:
+      213: 585923300509521646
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_89
+  - first:
+      213: 2090287653878137213
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_90
+  - first:
+      213: -6731085856138853101
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_91
+  - first:
+      213: 6795491188511543730
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_92
+  - first:
+      213: -7561120230081414774
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_93
+  - first:
+      213: -7152136872558700075
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_94
+  - first:
+      213: -6916847758987918683
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_95
+  - first:
+      213: -8346537290617717904
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_96
+  - first:
+      213: 4928153165633769340
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_97
+  - first:
+      213: -8624781448029415677
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_98
+  - first:
+      213: 7994178591317806497
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_99
+  - first:
+      213: 3663055731621858610
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_100
+  - first:
+      213: 1919896306534727744
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_101
+  - first:
+      213: -189239958165022476
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_102
+  - first:
+      213: -7367711236318641571
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_103
+  - first:
+      213: -448332234716333126
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_104
+  - first:
+      213: 7126476579426264439
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_105
+  - first:
+      213: 3138233879341837379
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_106
+  - first:
+      213: -6064498822293618241
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_107
+  - first:
+      213: 3748658699824037762
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_108
+  - first:
+      213: 8652854000228243772
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_109
+  - first:
+      213: 8826249582741368842
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_110
+  - first:
+      213: -2681047888135115694
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_111
+  - first:
+      213: 4184853920672980317
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_112
+  - first:
+      213: 3126385444301968684
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_113
+  - first:
+      213: 124106159380743556
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_114
+  - first:
+      213: -6335617309644108935
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_115
+  - first:
+      213: -6121837257485105780
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_116
+  - first:
+      213: 4449983706627405014
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_117
+  - first:
+      213: -1975019816737441686
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_118
+  - first:
+      213: 4547351011257469350
+    second: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+      - Battle Sprites_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 367
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f8d6faa6cbf11e0800000000000000
+      internalID: -2224852524501987546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 367
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c85a758cd42a5e50800000000000000
+      internalID: 6798787117019977920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 367
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00fac2eb967b0a30800000000000000
+      internalID: 4182567090840596495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 367
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa782c7d49bdda0800000000000000
+      internalID: -5918973630845834722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 367
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331a8372125c06b00800000000000000
+      internalID: 819871878364045619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 367
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442df6e13645d2a00800000000000000
+      internalID: 733335099020399172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 366
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685476031f8d83610800000000000000
+      internalID: 1601268197941003654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 367
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87afa000a515020800000000000000
+      internalID: 2328741438557944001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 367
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695bcad9f92514d20800000000000000
+      internalID: 3260978450691569046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 367
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e6b9492f17eaad0800000000000000
+      internalID: -2689086640804368859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 335
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c70b3d3666aa990800000000000000
+      internalID: -7373968860926411631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 335
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61736995243c6340800000000000000
+      internalID: 4858315434117788012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 335
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ca151b3856af90800000000000000
+      internalID: -6942764764764650988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a321f44fd4b955e00800000000000000
+      internalID: 1032902448665006650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 335
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c98ee0452b3ccaf0800000000000000
+      internalID: -374859637789390396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 335
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f356f845c8ce70c0800000000000000
+      internalID: -4575999421703629837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 334
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e295dde40758b6b0800000000000000
+      internalID: -5280374884410223904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 335
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f61f9dd1e89d9a0800000000000000
+      internalID: -6207774352491843840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68fbb1980614e2b0800000000000000
+      internalID: -5556291814207784849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 335
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a4a5015b8d34790800000000000000
+      internalID: -7546950278367786367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 303
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92270d1a73bdd90800000000000000
+      internalID: -7071997621728826904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 303
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3ea3127790de0b0800000000000000
+      internalID: -5697887546290543619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 303
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4a87e02f8e0d70800000000000000
+      internalID: 9011297275901266964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 303
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92610a1ff46ee710800000000000000
+      internalID: 1724426754145215131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 303
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0cd56798afb6760800000000000000
+      internalID: 7452325476717936863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 303
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8268e242e66aacd0800000000000000
+      internalID: -2546109517353426294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 303
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38959f0c0fc091a60800000000000000
+      internalID: 7645156070607378819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 302
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf39c1d3a7815a0800000000000000
+      internalID: -6550351255119332529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 303
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f96e06fc3158ad40800000000000000
+      internalID: 5595811859275868658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 303
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2191e903640e3900800000000000000
+      internalID: 665974618311463215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 271
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebf8b81225a74720800000000000000
+      internalID: 2830412456687893475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 271
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c98f99bc24d89f50800000000000000
+      internalID: 6888488918621063625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 271
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270398dfc7e8a6050800000000000000
+      internalID: 5794600538046279794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 271
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33a0adc0ededc70800000000000000
+      internalID: 8997873252311905254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 271
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6203da9f036ef260800000000000000
+      internalID: 7133247778474623594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 271
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d822a406fb599cf0800000000000000
+      internalID: -245063592517162792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 271
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501c4c71354690d30800000000000000
+      internalID: 4398156819147833605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 271
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273511c6e1f735f20800000000000000
+      internalID: 3410209111488418674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 271
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a35dc8f97e26300800000000000000
+      internalID: 244012002280028755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 271
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a8ee2c260b02fa0800000000000000
+      internalID: -5827463979593725376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051098d31a4398d10800000000000000
+      internalID: 2128290166036037968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 239
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd591d6daf3873c0800000000000000
+      internalID: -4361666225016054309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 239
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c5af228cbd07350800000000000000
+      internalID: 6012547155166387349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 239
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbfd6d242a9de620800000000000000
+      internalID: 2805067623093369797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 239
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4afaf2bb3453d60800000000000000
+      internalID: 7869270395137795232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 239
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ea5607e0b391d0800000000000000
+      internalID: -3345135591915592127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 239
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbd55ab8d5da3030800000000000000
+      internalID: 3475325189285600190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 239
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85e76a4f4b166210800000000000000
+      internalID: 1325777167671879053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 239
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f514734d47bc5940800000000000000
+      internalID: 5286301605098165752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 239
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb011531d0d1119c0800000000000000
+      internalID: -3958350655486095173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 207
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f8d6384257dcda0800000000000000
+      internalID: -5922949135238066371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 207
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d189abe78d95550800000000000000
+      internalID: 6150184804959133087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 207
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e35a4bb16bf2770800000000000000
+      internalID: 8588283244529925775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 207
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef001204fd82e740800000000000000
+      internalID: 5179858600575635434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 207
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f50db507848740800000000000000
+      internalID: 5153392332334560048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 207
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de77df8835db813e0800000000000000
+      internalID: -2082706661180606483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 207
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e9aa098b68af60800000000000000
+      internalID: 8045798970630989973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 207
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbede8572028ab130800000000000000
+      internalID: 3583319400600493755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 207
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f365ad5f615219760800000000000000
+      internalID: 7462786838073857599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 207
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e14d35c8f3b5dc0800000000000000
+      internalID: -3649253201119273429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 167
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b5da669998086b0800000000000000
+      internalID: -5296081869842064497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 167
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c225eeb64f9a1c0800000000000000
+      internalID: -4491790408928318389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 167
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a7f4ad0bdcc540800000000000000
+      internalID: 5029635735514750986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2d15cfbecd9d5c0800000000000000
+      internalID: -4190075072182889812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 167
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbd0524fe3993b40800000000000000
+      internalID: 5420526282336164862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 167
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8512bbe7c7d0ba0800000000000000
+      internalID: -6121099434779387665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 167
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bde149cdfceff620800000000000000
+      internalID: 2810225267249900983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 167
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74db1679aa895c850800000000000000
+      internalID: 6396686704201284935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 167
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339f52b1f2229e2b0800000000000000
+      internalID: -5554871079670515405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 167
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e3674196a4c9f90800000000000000
+      internalID: -6945594710136832511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad08dd47000160870800000000000000
+      internalID: 8648617728558334170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 135
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea19e5f47d96760800000000000000
+      internalID: 7451723794350190135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 134
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363cb41bbbeb61740800000000000000
+      internalID: 5122491339523212131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 135
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575bbbe5572ce33b0800000000000000
+      internalID: -5530769483008068235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba6c827ab005ecf0800000000000000
+      internalID: -223771805699249479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 135
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae7cb2c8d44dcc80800000000000000
+      internalID: -8300902840403198290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2874613e15edaf440800000000000000
+      internalID: 4970529582040369026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 135
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6432ff5b758eb430800000000000000
+      internalID: 3800621900484457580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 135
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0a4af5b615664b0800000000000000
+      internalID: -5447577177650061136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 135
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1ee8d12fdf21e70800000000000000
+      internalID: 9084602614679527933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4abd79b3f313c950800000000000000
+      internalID: 6468035427344169550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d9feabe623056f0800000000000000
+      internalID: -698002491078370014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05baf9a9fd1137860800000000000000
+      internalID: 7526379054335765328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10198bef39399d2a0800000000000000
+      internalID: -6712171505776029439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6d395d9c7ba4230800000000000000
+      internalID: 3623910927672530595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 103
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dad00485b9a1ee0800000000000000
+      internalID: -1289547539954160263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2562da2bb4475f120800000000000000
+      internalID: 2446989841014793810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 103
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed486a995f1ecea0800000000000000
+      internalID: -5850704396204618270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2da2b346bde4670800000000000000
+      internalID: 8524992368194802394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 103
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69e70332e912800800000000000000
+      internalID: 585923300509521646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d718acfdb81320d10800000000000000
+      internalID: 2090287653878137213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3150030a3116692a0800000000000000
+      internalID: -6731085856138853101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1178d5b3f6e4e50800000000000000
+      internalID: 6795491188511543730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a893af51631811790800000000000000
+      internalID: -7561120230081414774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d95a2678618ebc90800000000000000
+      internalID: -7152136872558700075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 71
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a281183c9b6200a0800000000000000
+      internalID: -6916847758987918683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bfd285e842b2c80800000000000000
+      internalID: -8346537290617717904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 71
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f41549131546440800000000000000
+      internalID: 4928153165633769340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d3d418fe9e4880800000000000000
+      internalID: -8624781448029415677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 71
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adc786e21701fe60800000000000000
+      internalID: 7994178591317806497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d87cbb7c9c5d230800000000000000
+      internalID: 3663055731621858610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040469cc487d4aa10800000000000000
+      internalID: 1919896306534727744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8934cb24faf5df0800000000000000
+      internalID: -189239958165022476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c2979aa1a0c990800000000000000
+      internalID: -7367711236318641571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb3068353437c9f0800000000000000
+      internalID: -448332234716333126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 39
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775e7d8f0b456e260800000000000000
+      internalID: 7126476579426264439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c2440161f3d8b20800000000000000
+      internalID: 3138233879341837379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb10a64c37296dba0800000000000000
+      internalID: -6064498822293618241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 39
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f703be939e50430800000000000000
+      internalID: 3748658699824037762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 39
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c391ce05edc151870800000000000000
+      internalID: 8652854000228243772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a003d366b332d7a70800000000000000
+      internalID: 8826249582741368842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c25e986210bcad0800000000000000
+      internalID: -2681047888135115694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d1d92f776931a30800000000000000
+      internalID: 4184853920672980317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25129e4ff6236b20800000000000000
+      internalID: 3126385444301968684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c358f4e9e8b100800000000000000
+      internalID: 124106159380743556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc8d9df9d5318a0800000000000000
+      internalID: -6335617309644108935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8549def27dda0ba0800000000000000
+      internalID: -6121837257485105780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d47dc9aa9481cd30800000000000000
+      internalID: 4449983706627405014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68f107d0f15794e0800000000000000
+      internalID: -1975019816737441686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters
+        - Battle Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9c30fd6af6b1f30800000000000000
+      internalID: 4547351011257469350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_0: -2224852524501987546
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_1: 6798787117019977920
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_10: -7373968860926411631
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_100: 3663055731621858610
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_101: 1919896306534727744
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_102: -189239958165022476
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_103: -7367711236318641571
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_104: -448332234716333126
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_105: 7126476579426264439
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_106: 3138233879341837379
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_107: -6064498822293618241
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_108: 3748658699824037762
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_109: 8652854000228243772
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_11: 4858315434117788012
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_110: 8826249582741368842
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_111: -2681047888135115694
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_112: 4184853920672980317
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_113: 3126385444301968684
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_114: 124106159380743556
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_115: -6335617309644108935
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_116: -6121837257485105780
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_117: 4449983706627405014
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_118: -1975019816737441686
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_119: 4547351011257469350
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_12: -6942764764764650988
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_13: 1032902448665006650
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_14: -374859637789390396
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_15: -4575999421703629837
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_16: -5280374884410223904
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_17: -6207774352491843840
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_18: -5556291814207784849
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_19: -7546950278367786367
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_2: 4182567090840596495
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_20: -7071997621728826904
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_21: -5697887546290543619
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_22: 9011297275901266964
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_23: 1724426754145215131
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_24: 7452325476717936863
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_25: -2546109517353426294
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_26: 7645156070607378819
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_27: -6550351255119332529
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_28: 5595811859275868658
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_29: 665974618311463215
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_3: -5918973630845834722
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_30: 2830412456687893475
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_31: 6888488918621063625
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_32: 5794600538046279794
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_33: 8997873252311905254
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_34: 7133247778474623594
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_35: -245063592517162792
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_36: 4398156819147833605
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_37: 3410209111488418674
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_38: 244012002280028755
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_39: -5827463979593725376
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_4: 819871878364045619
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_40: 2128290166036037968
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_41: -4361666225016054309
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_42: 6012547155166387349
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_43: 2805067623093369797
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_44: 7869270395137795232
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_45: -3345135591915592127
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_46: 3475325189285600190
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_47: 1325777167671879053
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_48: 5286301605098165752
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_49: -3958350655486095173
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_5: 733335099020399172
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_50: -5922949135238066371
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_51: 6150184804959133087
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_52: 8588283244529925775
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_53: 5179858600575635434
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_54: 5153392332334560048
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_55: -2082706661180606483
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_56: 8045798970630989973
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_57: 3583319400600493755
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_58: 7462786838073857599
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_59: -3649253201119273429
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_6: 1601268197941003654
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_60: -5296081869842064497
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_61: -4491790408928318389
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_62: 5029635735514750986
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_63: -4190075072182889812
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_64: 5420526282336164862
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_65: -6121099434779387665
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_66: 2810225267249900983
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_67: 6396686704201284935
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_68: -5554871079670515405
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_69: -6945594710136832511
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_7: 2328741438557944001
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_70: 8648617728558334170
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_71: 7451723794350190135
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_72: 5122491339523212131
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_73: -5530769483008068235
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_74: -223771805699249479
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_75: -8300902840403198290
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_76: 4970529582040369026
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_77: 3800621900484457580
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_78: -5447577177650061136
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_79: 9084602614679527933
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_8: 3260978450691569046
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_80: 6468035427344169550
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_81: -698002491078370014
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_82: 7526379054335765328
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_83: -6712171505776029439
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_84: 3623910927672530595
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_85: -1289547539954160263
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_86: 2446989841014793810
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_87: -5850704396204618270
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_88: 8524992368194802394
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_89: 585923300509521646
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_9: -2689086640804368859
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_90: 2090287653878137213
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_91: -6731085856138853101
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_92: 6795491188511543730
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_93: -7561120230081414774
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_94: -7152136872558700075
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_95: -6916847758987918683
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_96: -8346537290617717904
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_97: 4928153165633769340
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_98: -8624781448029415677
+      PC _ Computer - Final Fantasy (Pixel Remaster) - Playable Characters - Battle Sprites_99: 7994178591317806497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
