@@ -6,17 +6,10 @@ using System.Collections.Generic;
 
 public enum  GameState {FreeRoam, Dialog, Battle}
 
-public enum BattleState{
-    Start,
-    PlayerTurn,
-    EnemyTurn,
-    Busy,
-    BattleOver
-}
+
 
 public class GameManager : MonoBehaviour
 {
-    private BattleState B_state;
     GameState state;
     [SerializeField] player playercontroller;
     [SerializeField] BattleManager battlemanager;
