@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 82bbd34936f8e084d94bf31b7fdbc626
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -36307350660068168
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_0
+  - first:
+      213: -5493344902388886437
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_1
+  - first:
+      213: 5915935054500782740
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_2
+  - first:
+      213: 8981893479747112956
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_3
+  - first:
+      213: -972699412276301025
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_4
+  - first:
+      213: -5692249506625199511
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_5
+  - first:
+      213: -7599778027594582274
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_6
+  - first:
+      213: -9126098769887907173
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_7
+  - first:
+      213: -1454201267695746533
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_8
+  - first:
+      213: -5350923151700716010
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_9
+  - first:
+      213: 587309833824053708
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_10
+  - first:
+      213: 6171261617276185289
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_11
+  - first:
+      213: 2738455431811070660
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_12
+  - first:
+      213: 7605203499184108378
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_13
+  - first:
+      213: 896670725234318953
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_14
+  - first:
+      213: 181593458941747155
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_15
+  - first:
+      213: 7691462718750852796
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_16
+  - first:
+      213: 7560258353052529846
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_17
+  - first:
+      213: 5409665163199175805
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_18
+  - first:
+      213: 6862601735541342661
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_19
+  - first:
+      213: 6952471443819437684
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_20
+  - first:
+      213: 8296123172527640744
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_21
+  - first:
+      213: -7961492893208858399
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_22
+  - first:
+      213: 4579286436195138964
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_23
+  - first:
+      213: -8962306329418569478
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_24
+  - first:
+      213: -1246531626936241005
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_25
+  - first:
+      213: -9104684817056526533
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_26
+  - first:
+      213: 8661407288959190251
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_27
+  - first:
+      213: -3503967662558954570
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_28
+  - first:
+      213: -51721155127644234
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_29
+  - first:
+      213: -4277393731025857116
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_30
+  - first:
+      213: -7021496480077209521
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_31
+  - first:
+      213: -3824059920647083424
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_32
+  - first:
+      213: -3953018563423964025
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_33
+  - first:
+      213: -2785331942953574891
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_34
+  - first:
+      213: 1906551200304135110
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_35
+  - first:
+      213: 7152119579999551596
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_36
+  - first:
+      213: -4316407315535220191
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_37
+  - first:
+      213: -2791870681228422952
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_38
+  - first:
+      213: -4867813035752503512
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_39
+  - first:
+      213: -464485801989647340
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_40
+  - first:
+      213: -835028883451952564
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_41
+  - first:
+      213: -4264389166281751385
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_42
+  - first:
+      213: 2311211635908321389
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_43
+  - first:
+      213: -2592959305042786878
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_44
+  - first:
+      213: -351449052405061545
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_45
+  - first:
+      213: -87951687534270089
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_46
+  - first:
+      213: 887874981141572868
+    second: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bccb2d28a20f7ff0800000000000000
+      internalID: -36307350660068168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 151
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5458609ae7b3c3b0800000000000000
+      internalID: -5493344902388886437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 168
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492eccd869f991250800000000000000
+      internalID: 5915935054500782740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 151
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff49be188816ac70800000000000000
+      internalID: 8981893479747112956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 151
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f133a02c9074082f0800000000000000
+      internalID: -972699412276301025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 168
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96266b88b311101b0800000000000000
+      internalID: -5692249506625199511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 151
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6f765362a288690800000000000000
+      internalID: -7599778027594582274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 168
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92b3bb5585995180800000000000000
+      internalID: -9126098769887907173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b128217d6a3a1dbe0800000000000000
+      internalID: -1454201267695746533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61617727eb3bdb5b0800000000000000
+      internalID: -5350923151700716010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc92d22ae2b862800800000000000000
+      internalID: 587309833824053708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 151
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caefb18eb9b4a550800000000000000
+      internalID: 6171261617276185289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca765ec4b2f00620800000000000000
+      internalID: 2738455431811070660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 151
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a533d65d94c1b8960800000000000000
+      internalID: 7605203499184108378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e551a164d917c00800000000000000
+      internalID: 896670725234318953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 151
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfd1cde946258200800000000000000
+      internalID: 181593458941747155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 117
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb60e4277909dba60800000000000000
+      internalID: 7691462718750852796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b430e78aee6be860800000000000000
+      internalID: 7560258353052529846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 117
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cda46edcdf21b40800000000000000
+      internalID: 5409665163199175805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 134
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1cbe93bebdc3f50800000000000000
+      internalID: 6862601735541342661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 117
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e97ef31f32c7060800000000000000
+      internalID: 6952471443819437684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 134
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a095671210c12370800000000000000
+      internalID: 8296123172527640744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 117
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e03d7a3568138190800000000000000
+      internalID: -7961492893208858399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 134
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dfc2a60c4ec8f30800000000000000
+      internalID: 4579286436195138964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 134
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af865c2b0ed7f9380800000000000000
+      internalID: -8962306329418569478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 117
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394fc27f61e63bee0800000000000000
+      internalID: -1246531626936241005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 117
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f0477c569a5a180800000000000000
+      internalID: -9104684817056526533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 134
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be444690a00833870800000000000000
+      internalID: 8661407288959190251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 117
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb7b8c9f76f5fc0800000000000000
+      internalID: -3503967662558954570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 134
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf6e3922ef384ff0800000000000000
+      internalID: -51721155127644234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 117
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a598b17015a3a4c0800000000000000
+      internalID: -4277393731025857116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 134
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40a7512722ae8e90800000000000000
+      internalID: -7021496480077209521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa50e43c53eeac0800000000000000
+      internalID: -3824059920647083424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784f6908f8e0429c0800000000000000
+      internalID: -3953018563423964025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e14beea538859d0800000000000000
+      internalID: -2785331942953574891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf830273e657a10800000000000000
+      internalID: 1906551200304135110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604dfc4dde614360800000000000000
+      internalID: 7152119579999551596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12230a37a6a0914c0800000000000000
+      internalID: -4316407315535220191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 83
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d05d8a48684149d0800000000000000
+      internalID: -2791870681228422952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827c4f2b5dd027cb0800000000000000
+      internalID: -4867813035752503512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414d131cf90dd89f0800000000000000
+      internalID: -464485801989647340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c7a897a16964f0800000000000000
+      internalID: -835028883451952564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a480cf95a8d1d4c0800000000000000
+      internalID: -4264389166281751385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60a01fccb2131020800000000000000
+      internalID: 2311211635908321389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 83
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c581e90045f30cd0800000000000000
+      internalID: -2592959305042786878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 100
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758afbae2f66f1bf0800000000000000
+      internalID: -351449052405061545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 83
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779af1bf76887cef0800000000000000
+      internalID: -87951687534270089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 100
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d66e7579d525c00800000000000000
+      internalID: 887874981141572868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_0: -36307350660068168
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_1: -5493344902388886437
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_10: 587309833824053708
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_11: 6171261617276185289
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_12: 2738455431811070660
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_13: 7605203499184108378
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_14: 896670725234318953
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_15: 181593458941747155
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_16: 7691462718750852796
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_17: 7560258353052529846
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_18: 5409665163199175805
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_19: 6862601735541342661
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_2: 5915935054500782740
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_20: 6952471443819437684
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_21: 8296123172527640744
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_22: -7961492893208858399
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_23: 4579286436195138964
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_24: -8962306329418569478
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_25: -1246531626936241005
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_26: -9104684817056526533
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_27: 8661407288959190251
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_28: -3503967662558954570
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_29: -51721155127644234
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_3: 8981893479747112956
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_30: -4277393731025857116
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_31: -7021496480077209521
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_32: -3824059920647083424
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_33: -3953018563423964025
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_34: -2785331942953574891
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_35: 1906551200304135110
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_36: 7152119579999551596
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_37: -4316407315535220191
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_38: -2791870681228422952
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_39: -4867813035752503512
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_4: -972699412276301025
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_40: -464485801989647340
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_41: -835028883451952564
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_42: -4264389166281751385
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_43: 2311211635908321389
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_44: -2592959305042786878
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_45: -351449052405061545
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_46: -87951687534270089
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_47: 887874981141572868
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_5: -5692249506625199511
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_6: -7599778027594582274
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_7: -9126098769887907173
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_8: -1454201267695746533
+      NES - Final Fantasy - Playable Characters - Light Warriors_Small_Sprites_9: -5350923151700716010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

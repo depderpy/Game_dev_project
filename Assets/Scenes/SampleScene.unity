@@ -194,9 +194,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fdd3c5515db83f54a9e06dd948cbed6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BattleManager
-  battleText: {fileID: 0}
+  battleText: {fileID: 800006692}
   BattleScreen: {fileID: 1852329761}
-  BattledialogBox: {fileID: 0}
+  BattledialogBox: {fileID: 535684489}
 --- !u!1 &40518431
 GameObject:
   m_ObjectHideFlags: 0

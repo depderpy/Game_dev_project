@@ -9,6 +9,14 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private Text battleText;
     [SerializeField] GameObject BattleScreen;
     [SerializeField] GameObject BattledialogBox;
+
+    [SerializeField] private GameObject commandBox;
+    [SerializeField] private Text attackText;
+    [SerializeField] private Text magicText;
+    [SerializeField] private Text itemText;
+    [SerializeField] private Text runText;
+
+
     public enum BattleState{
     Start,
     PlayerTurn,
@@ -17,6 +25,13 @@ public class BattleManager : MonoBehaviour
     BattleOver
 }
     private BattleState state;
+
+    private void Start()
+    {
+        BattleScreen.SetActive(false);
+        BattledialogBox.SetActive(false);
+        commandBox.SetActive(false);
+    }
     
 
     public void HandleUpdate()
@@ -60,19 +75,17 @@ public class BattleManager : MonoBehaviour
     private void PlayerTurn()
     {
         state = BattleState.PlayerTurn;
-        StartCoroutine(
-            TypeBattleText("Choose an action")
-        );
+        commandBox.SetActive(true);
+        StartCoroutine(TypeBattleText("Choose an action"));
         
     }
 
     private IEnumerator PlayerAttack()
     {
         state = BattleState.Busy;
+        commandBox.SetActive(false);
 
-        yield return StartCoroutine(
-            TypeBattleText("You Attacked")
-        );
+        yield return StartCoroutine(TypeBattleText("You Attacked"));
 
         yield return new WaitForSeconds(1f);
         state = BattleState.EnemyTurn;
@@ -91,6 +104,7 @@ public class BattleManager : MonoBehaviour
 
     private IEnumerator TypeBattleText(string message)
     {
+        BattledialogBox.SetActive(true);
         battleText.text = "";
 
         foreach(char letter in message)
@@ -98,6 +112,11 @@ public class BattleManager : MonoBehaviour
             battleText.text += letter;
             yield return new WaitForSeconds(0.03f);
         }
+    }
+
+    private void UpdateCommandMenu()
+    {
+        
     }
     
 }
