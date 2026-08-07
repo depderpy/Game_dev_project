@@ -11,10 +11,15 @@ public class BattleManager : MonoBehaviour
     [SerializeField] GameObject BattledialogBox;
 
     [SerializeField] private GameObject commandBox;
-    [SerializeField] private Text attackText;
-    [SerializeField] private Text magicText;
-    [SerializeField] private Text itemText;
-    [SerializeField] private Text runText;
+    [SerializeField] private Text commandText;
+    private int currentSelection = 0;
+    private string[] commands = 
+    {
+        "Attack",
+        "Magic",
+        "Item",
+        "Run"
+    };
 
 
     public enum BattleState{
@@ -44,6 +49,28 @@ public class BattleManager : MonoBehaviour
         {
             StartCoroutine(PlayerAttack());
             Debug.Log("Player Attacked");
+        }
+
+        if(Input.GetKeyDown(KeyCode.S))
+        {
+            currentSelection++;
+
+            if(currentSelection >3)
+            currentSelection = 0;
+            
+            UpdateCommandMenu();
+            
+        }
+
+        if(Input.GetKeyDown(KeyCode.W))
+        {
+            currentSelection--;
+
+            if(currentSelection <0)
+            currentSelection = 3;
+            
+            UpdateCommandMenu();
+            
         }
     }
 
@@ -77,8 +104,11 @@ public class BattleManager : MonoBehaviour
         state = BattleState.PlayerTurn;
         commandBox.SetActive(true);
         StartCoroutine(TypeBattleText("Choose an action"));
-        
+
+        currentSelection = 0;
+        UpdateCommandMenu();
     }
+
 
     private IEnumerator PlayerAttack()
     {
@@ -117,6 +147,17 @@ public class BattleManager : MonoBehaviour
     private void UpdateCommandMenu()
     {
         
+        commandText.text = "";
+
+        for(int i = 0;  i < commands.Length; i++)
+        {
+            if(i == currentSelection)
+                commandText.text +="> ";
+            else
+                commandText.text += " ";
+
+            commandText.text += commands[i]+ "\n";
+        }
     }
     
 }
