@@ -47,8 +47,7 @@ public class BattleManager : MonoBehaviour
 
         if(Input.GetKeyDown(KeyCode.Space))
         {
-            StartCoroutine(PlayerAttack());
-            Debug.Log("Player Attacked");
+            SelectCommand();
         }
 
         if(Input.GetKeyDown(KeyCode.S))
@@ -86,7 +85,12 @@ public class BattleManager : MonoBehaviour
     public void EndBattle()
     {
         BattleScreen.SetActive(false);
+        BattledialogBox.SetActive(false);
+        commandBox.SetActive(false);
         Debug.Log("Battle ended");
+
+        state = BattleState.BattleOver;
+        Debug.Log("Battle Ended");
     }
 
     private IEnumerator SetUpBattle()
@@ -120,6 +124,40 @@ public class BattleManager : MonoBehaviour
         yield return new WaitForSeconds(1f);
         state = BattleState.EnemyTurn;
         StartCoroutine(EnemyTurn());
+    }
+
+    private IEnumerator MagicMenu()
+    {
+        state = BattleState.Busy;
+        commandBox.SetActive(false);
+
+        yield return StartCoroutine(TypeBattleText("Magic Go!!!"));
+        
+        yield return new WaitForSeconds(1f);
+        PlayerTurn();
+    }
+
+    private IEnumerator ItemMenu()
+    {
+        state = BattleState.Busy;
+        commandBox.SetActive(false);
+
+        yield return StartCoroutine(TypeBattleText("Item Selected king"));
+
+        yield return new WaitForSeconds(1f);
+        PlayerTurn();
+    }
+
+    private IEnumerator Run()
+    {
+        state = BattleState.Busy;
+        commandBox.SetActive(false);
+
+        yield return StartCoroutine(TypeBattleText("You running away"));
+
+        yield return new WaitForSeconds(1f);
+
+        EndBattle();
     }
 
     private IEnumerator EnemyTurn()
@@ -158,6 +196,26 @@ public class BattleManager : MonoBehaviour
 
             commandText.text += commands[i]+ "\n";
         }
+    }   
+
+    private void SelectCommand()
+    {
+        if(currentSelection == 0 )
+        {
+            StartCoroutine(PlayerAttack());
+        }
+        else if(currentSelection == 1)
+        {
+            StartCoroutine(MagicMenu());
+        }
+        else if(currentSelection == 2)
+        {
+            StartCoroutine(ItemMenu());
+        }
+
+        else if(currentSelection == 3)
+        {
+            StartCoroutine(Run());
+        }
     }
-    
 }
