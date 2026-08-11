@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] player playercontroller;
     [SerializeField] BattleManager battlemanager;
 
+    public event Action OnBattleEnd;
+
     private void Start()
     {
         state = GameState.FreeRoam;
@@ -22,6 +24,11 @@ public class GameManager : MonoBehaviour
         {
             state = GameState.Battle;
             battlemanager.StartBattle();
+        };
+
+        battlemanager.OnBattleEnd += () =>
+        {
+            state = GameState.FreeRoam;
         };
 
         DialogManager.Instance.OnShowDialog += ()=>

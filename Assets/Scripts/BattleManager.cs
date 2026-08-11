@@ -12,6 +12,10 @@ public class BattleManager : MonoBehaviour
 
     [SerializeField] private GameObject commandBox;
     [SerializeField] private Text commandText;
+    public event Action OnBattleEnd;
+    [SerializeField] GameManager gamemanager;
+    [SerializeField] private Combatant playerCombantant;
+    [SerializeField] private Combatant enemyCombatant;
     private int currentSelection = 0;
     private string[] commands = 
     {
@@ -76,6 +80,10 @@ public class BattleManager : MonoBehaviour
     public void StartBattle()
     {
         BattleScreen.SetActive(true);
+
+        playerCombantant.Initialize();
+        enemyCombatant.Initialize();
+
         state = BattleState.Start;
 
         StartCoroutine(SetUpBattle());
@@ -91,6 +99,8 @@ public class BattleManager : MonoBehaviour
 
         state = BattleState.BattleOver;
         Debug.Log("Battle Ended");
+
+        OnBattleEnd?.Invoke();
     }
 
     private IEnumerator SetUpBattle()
@@ -121,7 +131,25 @@ public class BattleManager : MonoBehaviour
 
         yield return StartCoroutine(TypeBattleText("You Attacked"));
 
+        yield return new WaitForSeconds(0.5f);
+
+        int damage = playerCombantant.attackDMG;
+        enemyCombatant.takeDamage(damage);
+
+        yield return StartCoroutine(
+            TypeBattleText(enemyCombatant.combatantName + "Took" + damage + "damage!!"));
+
         yield return new WaitForSeconds(1f);
+
+        if(enemyCombatant.isDead())
+        {
+            yield return StartCoroutine(TypeBattleText(enemyCombatant.combatantName + "Has been defeated"));
+
+            yield return new WaitForSeconds(1f);
+            EndBattle();
+            yield break;
+        }   
+
         state = BattleState.EnemyTurn;
         StartCoroutine(EnemyTurn());
     }
