@@ -51,6 +51,15 @@ TagManager:
   - name: player
     uniqueID: 1760457761
     locked: 0
+  - name: BattleBackground
+    uniqueID: 75061735
+    locked: 0
+  - name: BattleSprite
+    uniqueID: 929784379
+    locked: 0
+  - name: BattleCommandBox
+    uniqueID: 67107701
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []
