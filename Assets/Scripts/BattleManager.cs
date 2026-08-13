@@ -140,9 +140,9 @@ public class BattleManager : MonoBehaviour
 
         yield return StartCoroutine(TypeBattleText("You Attacked"));
 
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1f);
 
-        int damage = playerCombantant.attackDMG;
+        int damage = playerCombantant.getDamage();
         enemyCombatant.takeDamage(damage);
 
         yield return StartCoroutine(
@@ -217,7 +217,7 @@ public class BattleManager : MonoBehaviour
 
             yield return new WaitForSeconds(0.5f);
 
-            int damage = enemyCombatant.attackDMG;
+            int damage = enemyCombatant.getDamage();
 
             playerCombantant.takeDamage(damage);
 

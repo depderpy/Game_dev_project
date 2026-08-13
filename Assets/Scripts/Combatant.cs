@@ -9,6 +9,7 @@ public class Combatant : MonoBehaviour
     public int currentHP;
     public int attackDMG;
 
+
     public void Initialize()
     {
         currentHP = maxHP;
@@ -23,7 +24,11 @@ public class Combatant : MonoBehaviour
 
         Debug.Log(combatantName + "Took" + damage + "damage!");
         Debug.Log(combatantName + "HP:" + currentHP + "/" + maxHP);
+    }
 
+    public int getDamage()
+    {
+        return Random.Range(attackDMG / 2, attackDMG + 1);
     }
 
     public bool isDead()

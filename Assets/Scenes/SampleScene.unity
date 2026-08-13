@@ -3442,7 +3442,7 @@ MonoBehaviour:
   combatantName: Enemy Wizard
   maxHP: 20
   currentHP: 20
-  attackDMG: 3
+  attackDMG: 10
 --- !u!1 &176334696
 GameObject:
   m_ObjectHideFlags: 0
@@ -4702,7 +4702,7 @@ MonoBehaviour:
   combatantName: Hero
   maxHP: 30
   currentHP: 30
-  attackDMG: 5
+  attackDMG: 20
 --- !u!1 &1464644152
 GameObject:
   m_ObjectHideFlags: 0
