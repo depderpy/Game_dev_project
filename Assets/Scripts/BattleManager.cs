@@ -16,8 +16,10 @@ public class BattleManager : MonoBehaviour
     [SerializeField] GameManager gamemanager;
     [SerializeField] private Combatant playerCombantant;
     [SerializeField] private Combatant enemyCombatant;
+    [SerializeField] private EnemyData enemyData;
     [SerializeField] private GameObject PlayerBattleSprite;
     [SerializeField] private GameObject EnemyBattleSprite;
+    string SelectedItem = "Meat";
     private int currentSelection = 0;
     private string[] commands = 
     {
@@ -179,10 +181,27 @@ public class BattleManager : MonoBehaviour
         state = BattleState.Busy;
         commandBox.SetActive(false);
 
-        yield return StartCoroutine(TypeBattleText("Item Selected king"));
+        yield return StartCoroutine(TypeBattleText("you used " + SelectedItem + "!"));
 
         yield return new WaitForSeconds(1f);
-        PlayerTurn();
+
+        AlternateEnding ending = enemyData.GetalternativeEndings(SelectedItem);
+
+        if(ending != null)
+        {
+            yield return StartCoroutine(TypeBattleText(ending.EndMessage)
+            );
+
+            yield return new WaitForSeconds(2f);
+            EndBattle();
+            yield break;
+        }
+
+        yield return StartCoroutine(TypeBattleText("It had no effect")
+        );
+
+        yield return new WaitForSeconds(1f);
+        StartCoroutine(EnemyTurn());
     }
 
     private IEnumerator Run()

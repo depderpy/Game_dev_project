@@ -202,6 +202,7 @@ MonoBehaviour:
   gamemanager: {fileID: 34427171}
   playerCombantant: {fileID: 1236831974}
   enemyCombatant: {fileID: 68877403}
+  enemyData: {fileID: 68877404}
   PlayerBattleSprite: {fileID: 1236831971}
   EnemyBattleSprite: {fileID: 68877400}
 --- !u!1 &40518431
@@ -3346,6 +3347,7 @@ GameObject:
   - component: {fileID: 68877401}
   - component: {fileID: 68877402}
   - component: {fileID: 68877403}
+  - component: {fileID: 68877404}
   m_Layer: 0
   m_Name: EnemyCharacterSprite
   m_TagString: Untagged
@@ -3443,6 +3445,24 @@ MonoBehaviour:
   maxHP: 20
   currentHP: 20
   attackDMG: 10
+--- !u!114 &68877404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 68877400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65e6d64f0877c547a3bda6a13f5ad82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Wolf
+  combatant: {fileID: 68877403}
+  acceptMeat: 0
+  alternativeEnding:
+  - itemName: Meat
+    EndMessage: This "wolf" accepted the meat and left
 --- !u!1 &176334696
 GameObject:
   m_ObjectHideFlags: 0
