@@ -15,6 +15,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] BattleManager battlemanager;
     [SerializeField] public Inventory Inventory;
 
+    
+
    
 
     public event Action OnBattleEnd;

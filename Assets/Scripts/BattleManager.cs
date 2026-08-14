@@ -59,14 +59,12 @@ public class BattleManager : MonoBehaviour
 
     public void HandleUpdate()
     {
-        if(state != BattleState.PlayerTurn)
-        return;
-        //Menu stuff here afterwards
-
-        if(Input.GetKeyDown(KeyCode.Space))
+        if(state == BattleState.PlayerTurn && commandBox.activeSelf)
         {
             HandleCommandMenu();
         }
+        
+
         else if(state == BattleState.Busy && itemBox.activeSelf)
         {
             HandleItemMenu();
@@ -277,7 +275,7 @@ public class BattleManager : MonoBehaviour
         {
             currentSelection++;
 
-            if(currentSelection > commands.Length)
+            if(currentSelection >= commands.Length)
             currentSelection = 0;
             
             UpdateCommandMenu();
@@ -303,7 +301,7 @@ public class BattleManager : MonoBehaviour
             currentItemSelection++;
 
             if(currentItemSelection >= gamemanager.Inventory.items.Count)
-            currentSelection = 0;
+            currentItemSelection = 0;
 
             UpdateItemMenu();
         }
@@ -313,6 +311,8 @@ public class BattleManager : MonoBehaviour
             currentItemSelection--;
             if(currentItemSelection < 0)
             currentItemSelection = gamemanager.Inventory.items.Count -1;
+
+            UpdateItemMenu();
         }
         if(Input.GetKeyDown(KeyCode.Space))
         {
