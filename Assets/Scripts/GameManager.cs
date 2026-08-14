@@ -13,12 +13,23 @@ public class GameManager : MonoBehaviour
     GameState state;
     [SerializeField] player playercontroller;
     [SerializeField] BattleManager battlemanager;
+    [SerializeField] public Inventory Inventory;
+
+   
 
     public event Action OnBattleEnd;
 
     private void Start()
     {
         state = GameState.FreeRoam;
+
+        Inventory.AddItem("Meat",3);
+        Inventory.AddItem("Potion",2);
+
+        Debug.Log("Inventory initialized");
+        Debug.Log("Has Meat: " + Inventory.HasItem("Meat"));
+        Debug.Log("Has Potion: " + Inventory.HasItem("Potion"));
+
 
         playercontroller.OnEncounter += () =>
         {

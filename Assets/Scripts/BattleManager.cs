@@ -19,7 +19,15 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private EnemyData enemyData;
     [SerializeField] private GameObject PlayerBattleSprite;
     [SerializeField] private GameObject EnemyBattleSprite;
-    string SelectedItem = "Meat";
+
+
+    public Inventory Inventory => Inventory;
+
+    [SerializeField] private GameObject itemBox;
+    [SerializeField] Text itemText;
+
+    private int currentItemSelection = 0;
+
     private int currentSelection = 0;
     private string[] commands = 
     {
@@ -28,15 +36,14 @@ public class BattleManager : MonoBehaviour
         "Item",
         "Run"
     };
-
-
+    
     public enum BattleState{
     Start,
     PlayerTurn,
     EnemyTurn,
     Busy,
     BattleOver
-}
+    }
     private BattleState state;
 
     private void Start()
@@ -44,9 +51,9 @@ public class BattleManager : MonoBehaviour
         BattleScreen.SetActive(false);
         BattledialogBox.SetActive(false);
         commandBox.SetActive(false);
+        itemBox.SetActive(false);
         PlayerBattleSprite.SetActive(false);
         EnemyBattleSprite.SetActive(false);
-        
     }
     
 
@@ -58,30 +65,13 @@ public class BattleManager : MonoBehaviour
 
         if(Input.GetKeyDown(KeyCode.Space))
         {
-            SelectCommand();
+            HandleCommandMenu();
         }
-
-        if(Input.GetKeyDown(KeyCode.S))
+        else if(state == BattleState.Busy && itemBox.activeSelf)
         {
-            currentSelection++;
-
-            if(currentSelection >3)
-            currentSelection = 0;
-            
-            UpdateCommandMenu();
-            
+            HandleItemMenu();
         }
-
-        if(Input.GetKeyDown(KeyCode.W))
-        {
-            currentSelection--;
-
-            if(currentSelection <0)
-            currentSelection = 3;
-            
-            UpdateCommandMenu();
-            
-        }
+        
     }
 
     public void StartBattle()
@@ -176,33 +166,29 @@ public class BattleManager : MonoBehaviour
         PlayerTurn();
     }
 
-    private IEnumerator ItemMenu()
+    private IEnumerator OpenItemMenu()
     {
         state = BattleState.Busy;
         commandBox.SetActive(false);
+        itemBox.SetActive(true);
 
-        yield return StartCoroutine(TypeBattleText("you used " + SelectedItem + "!"));
+        currentItemSelection= 0;
+        UpdateItemMenu();
 
-        yield return new WaitForSeconds(1f);
+        yield return null;
 
-        AlternateEnding ending = enemyData.GetalternativeEndings(SelectedItem);
-
-        if(ending != null)
-        {
-            yield return StartCoroutine(TypeBattleText(ending.EndMessage)
-            );
-
-            yield return new WaitForSeconds(2f);
-            EndBattle();
-            yield break;
         }
+    private void CloseItemMenu()
+    {
+        itemBox.SetActive(false);
 
-        yield return StartCoroutine(TypeBattleText("It had no effect")
-        );
+        commandBox.SetActive(true);
 
-        yield return new WaitForSeconds(1f);
-        StartCoroutine(EnemyTurn());
-    }
+        state = BattleState.PlayerTurn;
+
+        currentSelection = 0;
+        UpdateCommandMenu();    
+        }
 
     private IEnumerator Run()
     {
@@ -281,6 +267,126 @@ public class BattleManager : MonoBehaviour
         }
     }   
 
+    private void HandleCommandMenu()
+    {
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            SelectCommand();
+        }
+        if(Input.GetKeyDown(KeyCode.S))
+        {
+            currentSelection++;
+
+            if(currentSelection > commands.Length)
+            currentSelection = 0;
+            
+            UpdateCommandMenu();
+            
+        }
+
+        if(Input.GetKeyDown(KeyCode.W))
+        {
+            currentSelection--;
+
+            if(currentSelection < 0)
+            currentSelection = commands.Length -1;
+            
+            UpdateCommandMenu();
+            
+        }
+    }
+
+    private void HandleItemMenu()
+    {
+        if(Input.GetKeyDown(KeyCode.S))
+        {
+            currentItemSelection++;
+
+            if(currentItemSelection >= gamemanager.Inventory.items.Count)
+            currentSelection = 0;
+
+            UpdateItemMenu();
+        }
+
+        if(Input.GetKeyDown(KeyCode.W))
+        {
+            currentItemSelection--;
+            if(currentItemSelection < 0)
+            currentItemSelection = gamemanager.Inventory.items.Count -1;
+        }
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            SelectItem();
+        }
+
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+            CloseItemMenu();
+        }
+    }
+
+    private void SelectItem()
+    {
+        List<Item> items = gamemanager.Inventory.items;
+
+        if(items.Count == 0)
+        return;
+
+        Item selectedItem = items[currentItemSelection];
+        StartCoroutine(UseItem(selectedItem));
+    }
+
+    private IEnumerator UseItem(Item item)
+    {   
+        state = BattleState.Busy;
+        itemBox.SetActive(false);
+        string selectedItemName = item.itemName;
+
+        gamemanager.Inventory.RemoveItem(selectedItemName);
+
+        yield return StartCoroutine(
+            TypeBattleText("You used " + selectedItemName + "!")
+        );
+
+        yield return new WaitForSeconds(2f);
+
+        AlternateEnding ending = 
+        enemyData.GetalternativeEndings(selectedItemName);
+
+        if(ending != null)
+        {
+            yield return StartCoroutine(TypeBattleText(ending.EndMessage));
+
+            yield return new WaitForSeconds(2f);
+
+            EndBattle();
+            yield break;
+        }
+
+        yield return StartCoroutine(TypeBattleText("It has no effect!"));
+
+        yield return new WaitForSeconds(1f);
+        StartCoroutine(OpenItemMenu());
+    }
+
+
+    private void UpdateItemMenu()
+    {
+        itemText.text ="";
+        List<Item> items = gamemanager.Inventory.items;
+
+        for(int i = 0; i <items.Count; i++)
+        {
+            if(i == currentItemSelection)
+            itemText.text += "> ";
+            else
+            itemText.text += " ";
+            
+
+            itemText.text += items[i].itemName + "x " + items[i].quantity + "\n";
+        }
+    }
+
     private void SelectCommand()
     {
         if(currentSelection == 0 )
@@ -293,7 +399,7 @@ public class BattleManager : MonoBehaviour
         }
         else if(currentSelection == 2)
         {
-            StartCoroutine(ItemMenu());
+            StartCoroutine(OpenItemMenu());
         }
 
         else if(currentSelection == 3)

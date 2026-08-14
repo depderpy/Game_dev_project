@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 34427171}
   - component: {fileID: 34427170}
   - component: {fileID: 34427173}
+  - component: {fileID: 34427174}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -167,6 +168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   playercontroller: {fileID: 758839698}
   battlemanager: {fileID: 34427173}
+  Inventory: {fileID: 0}
 --- !u!4 &34427172
 Transform:
   m_ObjectHideFlags: 0
@@ -175,7 +177,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 34427169}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 549.2058, y: 129.22795, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -205,6 +207,23 @@ MonoBehaviour:
   enemyData: {fileID: 68877404}
   PlayerBattleSprite: {fileID: 1236831971}
   EnemyBattleSprite: {fileID: 68877400}
+--- !u!114 &34427174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 34427169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf047e53fb5941d4ca3ff4ce72ba0d16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Inventory
+  items:
+  - itemName: Meat
+    quantity: 0
+  - itemName: Potion
+    quantity: 0
 --- !u!1 &40518431
 GameObject:
   m_ObjectHideFlags: 0
@@ -6117,5 +6136,5 @@ SceneRoots:
   - {fileID: 1144046857}
   - {fileID: 1464644155}
   - {fileID: 2092708907}
-  - {fileID: 34427172}
   - {fileID: 1579011220}
+  - {fileID: 34427172}
