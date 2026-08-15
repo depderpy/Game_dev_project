@@ -169,6 +169,10 @@ MonoBehaviour:
   playercontroller: {fileID: 758839698}
   battlemanager: {fileID: 34427173}
   Inventory: {fileID: 34427174}
+  enemies:
+  - {fileID: 68877404}
+  - {fileID: 1824562227}
+  playerCombantant: {fileID: 1236831974}
 --- !u!4 &34427172
 Transform:
   m_ObjectHideFlags: 0
@@ -206,7 +210,6 @@ MonoBehaviour:
   enemyCombatant: {fileID: 68877403}
   enemyData: {fileID: 68877404}
   PlayerBattleSprite: {fileID: 1236831971}
-  EnemyBattleSprite: {fileID: 68877400}
   itemBox: {fileID: 1203552193}
   itemText: {fileID: 1966698082}
 --- !u!114 &34427174
@@ -3366,12 +3369,12 @@ GameObject:
   - component: {fileID: 68877403}
   - component: {fileID: 68877404}
   m_Layer: 0
-  m_Name: EnemyCharacterSprite
+  m_Name: Wolf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &68877401
 Transform:
   m_ObjectHideFlags: 0
@@ -3381,7 +3384,7 @@ Transform:
   m_GameObject: {fileID: 68877400}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
-  m_LocalPosition: {x: -312, y: 11, z: -2803.4785}
+  m_LocalPosition: {x: -312, y: 11, z: -2825}
   m_LocalScale: {x: 60, y: 60, z: 60}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -3458,10 +3461,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0eee7c3eb0b1a9e4195ac8b26fae5bd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Combatant
-  combatantName: Enemy Wizard
+  combatantName: Wolf
   maxHP: 20
   currentHP: 20
   attackDMG: 10
+  magicDMG: 0
 --- !u!114 &68877404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3476,10 +3480,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyData
   enemyName: Wolf
   combatant: {fileID: 68877403}
+  battlesprite: {fileID: 68877400}
   acceptMeat: 0
   alternativeEnding:
   - itemName: Meat
     EndMessage: This "wolf" accepted the meat and left
+  drops:
+  - itemName: Meat
+    quantity: 1
 --- !u!1 &176334696
 GameObject:
   m_ObjectHideFlags: 0
@@ -4815,7 +4823,8 @@ MonoBehaviour:
   combatantName: Hero
   maxHP: 30
   currentHP: 30
-  attackDMG: 20
+  attackDMG: 10
+  magicDMG: 0
 --- !u!1 &1464644152
 GameObject:
   m_ObjectHideFlags: 0
@@ -4992,6 +5001,7 @@ RectTransform:
   m_Children:
   - {fileID: 1236831973}
   - {fileID: 68877401}
+  - {fileID: 1824562225}
   - {fileID: 1852329762}
   - {fileID: 535684490}
   - {fileID: 1817883611}
@@ -5628,6 +5638,136 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1817883610}
   m_CullTransparentMesh: 1
+--- !u!1 &1824562224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1824562225}
+  - component: {fileID: 1824562228}
+  - component: {fileID: 1824562226}
+  - component: {fileID: 1824562227}
+  m_Layer: 0
+  m_Name: slime
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1824562225
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824562224}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
+  m_LocalPosition: {x: -312, y: 11, z: -2825}
+  m_LocalScale: {x: 60, y: 60, z: 60}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 1579011220}
+  m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
+--- !u!114 &1824562226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824562224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eee7c3eb0b1a9e4195ac8b26fae5bd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Combatant
+  combatantName: Slime
+  maxHP: 15
+  currentHP: 15
+  attackDMG: 8
+  magicDMG: 0
+--- !u!114 &1824562227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824562224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65e6d64f0877c547a3bda6a13f5ad82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Slime
+  combatant: {fileID: 1824562226}
+  battlesprite: {fileID: 1824562224}
+  acceptMeat: 0
+  alternativeEnding: []
+  drops:
+  - itemName: Potion
+    quantity: 1
+--- !u!212 &1824562228
+SpriteRenderer:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824562224}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 929784379
+  m_SortingLayer: 5
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: -1766908793, guid: f1cb4ac8eb4222d45ad1b30ddf793132, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
 --- !u!1 &1852329761
 GameObject:
   m_ObjectHideFlags: 0

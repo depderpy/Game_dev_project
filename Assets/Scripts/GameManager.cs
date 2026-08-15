@@ -14,6 +14,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] player playercontroller;
     [SerializeField] BattleManager battlemanager;
     [SerializeField] public Inventory Inventory;
+    [SerializeField] private List<EnemyData> enemies;
+    [SerializeField] private Combatant playerCombantant;
+
 
     
 
@@ -35,8 +38,9 @@ public class GameManager : MonoBehaviour
 
         playercontroller.OnEncounter += () =>
         {
-            state = GameState.Battle;
-            battlemanager.StartBattle();
+            StartRandomBattle();
+            playerCombantant.Initialize();
+
         };
 
         battlemanager.OnBattleEnd += () =>
@@ -70,5 +74,13 @@ public class GameManager : MonoBehaviour
         {
             battlemanager.HandleUpdate();
         }
+    }
+
+    private void StartRandomBattle()
+    {
+        int randomEnemy = UnityEngine.Random.Range(0, enemies.Count);
+            EnemyData selectedEnemy = enemies[randomEnemy];
+            state = GameState.Battle;
+            battlemanager.StartBattle(selectedEnemy);
     }
 }

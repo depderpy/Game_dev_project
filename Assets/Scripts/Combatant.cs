@@ -8,6 +8,7 @@ public class Combatant : MonoBehaviour
     public int maxHP;
     public int currentHP;
     public int attackDMG;
+    public int magicDMG;
 
 
     public void Initialize()
@@ -34,5 +35,17 @@ public class Combatant : MonoBehaviour
     public bool isDead()
     {
        return currentHP <= 0;
+    }
+
+    public void heal(int amount)
+    {
+        currentHP += amount;
+
+        if(currentHP > maxHP)
+        currentHP = maxHP;
+
+        Debug.Log(combatantName + "healed" + amount + " HP!");
+        Debug.Log(combatantName + "HP: " + currentHP + " / " + maxHP);
+
     }
 }

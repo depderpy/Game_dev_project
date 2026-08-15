@@ -5,8 +5,11 @@ public class EnemyData : MonoBehaviour
 {
     public string enemyName;
     public Combatant combatant;
+    public GameObject battlesprite;
     public bool acceptMeat;
     public List <AlternateEnding> alternativeEnding;
+
+    public List<Item> drops;
 
     private void Start()
     {

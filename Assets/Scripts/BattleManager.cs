@@ -18,7 +18,6 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private Combatant enemyCombatant;
     [SerializeField] private EnemyData enemyData;
     [SerializeField] private GameObject PlayerBattleSprite;
-    [SerializeField] private GameObject EnemyBattleSprite;
 
 
     public Inventory Inventory => Inventory;
@@ -53,7 +52,6 @@ public class BattleManager : MonoBehaviour
         commandBox.SetActive(false);
         itemBox.SetActive(false);
         PlayerBattleSprite.SetActive(false);
-        EnemyBattleSprite.SetActive(false);
     }
     
 
@@ -72,19 +70,22 @@ public class BattleManager : MonoBehaviour
         
     }
 
-    public void StartBattle()
+    public void StartBattle(EnemyData enemy)
     {
+
+        enemyData = enemy;
+
         BattleScreen.SetActive(true);
         PlayerBattleSprite.SetActive(true);
-        EnemyBattleSprite.SetActive(true);
+        enemyData.battlesprite.SetActive(true);
 
-        playerCombantant.Initialize();
+        enemyCombatant = enemy.combatant;
         enemyCombatant.Initialize();
 
         state = BattleState.Start;
 
         StartCoroutine(SetUpBattle());
-        Debug.Log("Battle Started");
+        Debug.Log("Battle Started" + enemyData.enemyName);
     }
 
     public void EndBattle()
@@ -93,7 +94,7 @@ public class BattleManager : MonoBehaviour
         BattledialogBox.SetActive(false);
         commandBox.SetActive(false);
         PlayerBattleSprite.SetActive(false);
-        EnemyBattleSprite.SetActive(false);
+        enemyData.battlesprite.SetActive(false);
         Debug.Log("Battle ended");
 
         state = BattleState.BattleOver;
@@ -105,14 +106,14 @@ public class BattleManager : MonoBehaviour
     private IEnumerator SetUpBattle()
     {
         yield return StartCoroutine(
-            TypeBattleText("A Wild Slime appeared")
+            TypeBattleText("A Wild "+ enemyData.enemyName + " appeared!")
             );
         yield return new WaitForSeconds(2f);
 
-        PlayerTurn();
+        StartCoroutine(PlayerTurn());
     }
 
-    private void PlayerTurn()
+    private IEnumerator PlayerTurn()
     {
         state = BattleState.PlayerTurn;
         commandBox.SetActive(true);
@@ -120,6 +121,8 @@ public class BattleManager : MonoBehaviour
 
         currentSelection = 0;
         UpdateCommandMenu();
+
+        yield return null;
     }
 
 
@@ -142,9 +145,14 @@ public class BattleManager : MonoBehaviour
 
         if(enemyCombatant.isDead())
         {
-            EnemyBattleSprite.SetActive(false);
+            enemyData.battlesprite.SetActive(false);
             yield return StartCoroutine(TypeBattleText(enemyCombatant.combatantName + " Has been defeated "));
             yield return new WaitForSeconds(1f);
+
+            yield return StartCoroutine(giveDrop());
+
+            yield return new WaitForSeconds(1f);
+
             EndBattle();
             yield break;
         }   
@@ -161,7 +169,7 @@ public class BattleManager : MonoBehaviour
         yield return StartCoroutine(TypeBattleText("Magic Go!!!"));
         
         yield return new WaitForSeconds(1f);
-        PlayerTurn();
+        StartCoroutine(EnemyTurn());
     }
 
     private IEnumerator OpenItemMenu()
@@ -209,7 +217,7 @@ public class BattleManager : MonoBehaviour
         yield return new WaitForSeconds(1f);
 
         yield return StartCoroutine(EnemyAttack());
-        PlayerTurn();
+        StartCoroutine(PlayerTurn());
     }
 
     private IEnumerator EnemyAttack()
@@ -335,13 +343,13 @@ public class BattleManager : MonoBehaviour
         Item selectedItem = items[currentItemSelection];
         StartCoroutine(UseItem(selectedItem));
     }
-
     private IEnumerator UseItem(Item item)
     {   
         state = BattleState.Busy;
         itemBox.SetActive(false);
         string selectedItemName = item.itemName;
 
+        //Removes Item from inventory after use
         gamemanager.Inventory.RemoveItem(selectedItemName);
 
         yield return StartCoroutine(
@@ -349,6 +357,22 @@ public class BattleManager : MonoBehaviour
         );
 
         yield return new WaitForSeconds(2f);
+
+        //Potion stuff
+
+        if(selectedItemName == "Potion")
+        {
+            int healAmount = 10;
+
+            playerCombantant.heal(healAmount);
+
+            yield return StartCoroutine(TypeBattleText("You recovered " + healAmount + " HP!"));
+
+            yield return new WaitForSeconds(1f);
+
+            StartCoroutine(EnemyTurn());
+            yield break;
+        }
 
         AlternateEnding ending = 
         enemyData.GetalternativeEndings(selectedItemName);
@@ -369,6 +393,8 @@ public class BattleManager : MonoBehaviour
         StartCoroutine(OpenItemMenu());
     }
 
+    
+
 
     private void UpdateItemMenu()
     {
@@ -386,6 +412,19 @@ public class BattleManager : MonoBehaviour
             itemText.text += items[i].itemName + "x " + items[i].quantity + "\n";
         }
     }
+
+    private IEnumerator giveDrop()
+    {
+        foreach(Item drop in enemyData.drops)
+        {
+            gamemanager.Inventory.AddItem(drop.itemName, drop.quantity);
+
+            yield return StartCoroutine(TypeBattleText
+            ("The" + enemyCombatant.combatantName + " droppped " + drop.itemName + " x " + drop.quantity + "!!")
+            );
+        }
+    }
+    
 
     private void SelectCommand()
     {
