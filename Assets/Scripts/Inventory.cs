@@ -3,20 +3,19 @@ using System.Collections.Generic;
 
 public class Inventory : MonoBehaviour
 {
-
     public List<Item> items = new List<Item>();
-
 
     public void AddItem(string itemName, int amount)
     {
-        foreach(Item item in items)
+        foreach (Item item in items)
         {
-            if(item.itemName == itemName)
+            if (item.itemName == itemName)
             {
                 item.quantity += amount;
                 return;
             }
         }
+
         Item newItem = new Item();
         newItem.itemName = itemName;
         newItem.quantity = amount;
@@ -24,34 +23,33 @@ public class Inventory : MonoBehaviour
         items.Add(newItem);
     }
 
-    
-
     public bool HasItem(string itemName)
     {
-        foreach(Item item in items)
+        foreach (Item item in items)
         {
-            if(item.itemName == itemName && item.quantity >0)
+            if (item.itemName == itemName && item.quantity > 0)
             {
                 return true;
             }
         }
+
         return false;
     }
 
-    public void RemoveItem(string itemName)
+    public void RemoveItem(string itemName, int amount)
     {
-        for(int i = 0; i< items.Count; i++)
+        foreach (Item item in items)
         {
-            if(items[i].itemName == itemName)
+            if (item.itemName == itemName)
             {
-                items[i].quantity --;
+                item.quantity -= amount;
 
-                if(items[i].quantity <= 0)
+                if (item.quantity <= 0)
                 {
-                    items.RemoveAt(i);
+                    items.Remove(item);
                 }
 
-                    return;
+                return;
             }
         }
     }

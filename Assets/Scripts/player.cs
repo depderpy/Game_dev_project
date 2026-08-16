@@ -125,9 +125,6 @@ public class player : MonoBehaviour
 
         if(obstacle != null)
         {
-            Debug.Log("you bumped into something");
-            
-
             return false;
         }
         return true;

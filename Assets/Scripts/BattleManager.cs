@@ -19,9 +19,13 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private EnemyData enemyData;
     [SerializeField] private GameObject PlayerBattleSprite;
 
+    [SerializeField] private GameObject playerHPUI;
+    [SerializeField] private Text playerHPText;
+
 
     public Inventory Inventory => Inventory;
     public Spellbook Spellbook => Spellbook;
+    public QuestManager QuestManager => QuestManager;
 
     [SerializeField] private GameObject itemBox;
     [SerializeField] Text itemText;
@@ -58,11 +62,24 @@ public class BattleManager : MonoBehaviour
         itemBox.SetActive(false);
         spellBox.SetActive(false);
         PlayerBattleSprite.SetActive(false);
+        playerHPUI.SetActive(false);
     }
+
+    private void UpdatePlayerHP()
+{
+    playerHPText.text =
+        "HP: " + playerCombantant.currentHP +
+        " / " + playerCombantant.maxHP;
+}
     
 
     public void HandleUpdate()
     {
+        if(state ==BattleState.BattleOver)
+        {
+            return;
+        }
+
         if(state == BattleState.PlayerTurn && commandBox.activeSelf)
         {
             HandleCommandMenu();
@@ -78,20 +95,21 @@ public class BattleManager : MonoBehaviour
         {
             HandleSpellMenu();
         }
-        
     }
 
     public void StartBattle(EnemyData enemy)
     {
 
         enemyData = enemy;
-
         BattleScreen.SetActive(true);
         PlayerBattleSprite.SetActive(true);
         enemyData.battlesprite.SetActive(true);
+        playerHPUI.SetActive(true);
 
         enemyCombatant = enemy.combatant;
         enemyCombatant.Initialize();
+
+        UpdatePlayerHP();
 
         state = BattleState.Start;
 
@@ -104,6 +122,9 @@ public class BattleManager : MonoBehaviour
         BattleScreen.SetActive(false);
         BattledialogBox.SetActive(false);
         commandBox.SetActive(false);
+        itemBox.SetActive(false);
+        playerHPUI.SetActive(false);
+        
         PlayerBattleSprite.SetActive(false);
         enemyData.battlesprite.SetActive(false);
         Debug.Log("Battle ended");
@@ -158,9 +179,11 @@ public class BattleManager : MonoBehaviour
         {
             enemyData.battlesprite.SetActive(false);
             yield return StartCoroutine(TypeBattleText(enemyCombatant.combatantName + " Has been defeated "));
+            
             yield return new WaitForSeconds(1f);
 
             yield return StartCoroutine(giveDrop());
+            
 
             yield return new WaitForSeconds(1f);
 
@@ -262,6 +285,9 @@ public class BattleManager : MonoBehaviour
         yield return new WaitForSeconds(1f);
 
         yield return StartCoroutine(EnemyAttack());
+
+        if(state == BattleState.BattleOver)
+        yield break;
         StartCoroutine(PlayerTurn());
     }
 
@@ -276,6 +302,7 @@ public class BattleManager : MonoBehaviour
             int damage = enemyCombatant.getDamage();
 
             playerCombantant.takeDamage(damage);
+            UpdatePlayerHP();
 
             yield return StartCoroutine(TypeBattleText(playerCombantant.combatantName + " Took " + damage + " damage "));
 
@@ -284,7 +311,9 @@ public class BattleManager : MonoBehaviour
             if(playerCombantant.isDead())
             {
                 PlayerBattleSprite.SetActive(false);
-                yield return StartCoroutine(TypeBattleText("You have been defeated"));
+                commandBox.SetActive(false);
+                yield return StartCoroutine(TypeBattleText("You have been defeated. Try Again."));
+                playerCombantant.Initialize();
                 yield return new WaitForSeconds(1f);
                 EndBattle();
                 yield break;
@@ -474,11 +503,12 @@ public class BattleManager : MonoBehaviour
         string selectedItemName = item.itemName;
 
         //Removes Item from inventory after use
-        gamemanager.Inventory.RemoveItem(selectedItemName);
+        gamemanager.Inventory.RemoveItem(selectedItemName,1);
 
         yield return StartCoroutine(
             TypeBattleText("You used " + selectedItemName + "!")
         );
+        
 
         yield return new WaitForSeconds(2f);
 
@@ -491,6 +521,7 @@ public class BattleManager : MonoBehaviour
             playerCombantant.heal(healAmount);
 
             yield return StartCoroutine(TypeBattleText("You recovered " + healAmount + " HP!"));
+            UpdatePlayerHP();
 
             yield return new WaitForSeconds(1f);
 
