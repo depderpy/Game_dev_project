@@ -21,13 +21,18 @@ public class BattleManager : MonoBehaviour
 
 
     public Inventory Inventory => Inventory;
+    public Spellbook Spellbook => Spellbook;
 
     [SerializeField] private GameObject itemBox;
     [SerializeField] Text itemText;
 
-    private int currentItemSelection = 0;
+    [SerializeField] private GameObject spellBox;
+    [SerializeField] Text spellText;
 
+    private int currentItemSelection = 0;
+    private int currentSpellSelection = 0;
     private int currentSelection = 0;
+
     private string[] commands = 
     {
         "Attack",
@@ -51,6 +56,7 @@ public class BattleManager : MonoBehaviour
         BattledialogBox.SetActive(false);
         commandBox.SetActive(false);
         itemBox.SetActive(false);
+        spellBox.SetActive(false);
         PlayerBattleSprite.SetActive(false);
     }
     
@@ -66,6 +72,11 @@ public class BattleManager : MonoBehaviour
         else if(state == BattleState.Busy && itemBox.activeSelf)
         {
             HandleItemMenu();
+        }
+
+        else if (state == BattleState.Busy && spellBox.activeSelf)
+        {
+            HandleSpellMenu();
         }
         
     }
@@ -161,6 +172,14 @@ public class BattleManager : MonoBehaviour
         StartCoroutine(EnemyTurn());
     }
 
+    private IEnumerator MagicAttack()
+    {
+        state = BattleState.Busy;
+        commandBox.SetActive(false);
+
+        yield return StartCoroutine(TypeBattleText("You cast Fire"));
+    }
+
     private IEnumerator MagicMenu()
     {
         state = BattleState.Busy;
@@ -170,6 +189,30 @@ public class BattleManager : MonoBehaviour
         
         yield return new WaitForSeconds(1f);
         StartCoroutine(EnemyTurn());
+    }
+
+    private IEnumerator OpenMagicMenu()
+    {
+        state = BattleState.Busy;
+        commandBox.SetActive(false);
+        spellBox.SetActive(true);
+
+        currentSpellSelection = 0;
+        UpdateMagicMenu();
+
+        yield return null;
+    }
+
+    private void CloseMagicMenu()
+    {
+        spellBox.SetActive(false);
+
+        commandBox.SetActive(true);
+
+        state = BattleState.PlayerTurn;
+
+        currentSelection = 0;
+        UpdateCommandMenu();   
     }
 
     private IEnumerator OpenItemMenu()
@@ -195,6 +238,8 @@ public class BattleManager : MonoBehaviour
         currentSelection = 0;
         UpdateCommandMenu();    
         }
+
+        
 
     private IEnumerator Run()
     {
@@ -333,6 +378,85 @@ public class BattleManager : MonoBehaviour
         }
     }
 
+    private void HandleSpellMenu()
+    {
+        List<Spell> spells = gamemanager.Spellbook.spells;
+
+        if(spells.Count ==0)
+        return;
+
+        if(Input.GetKeyDown(KeyCode.S))
+        {
+            currentSpellSelection++;
+
+            if(currentSpellSelection >= gamemanager.Spellbook.spells.Count)
+            currentSpellSelection = 0;
+
+            UpdateMagicMenu();
+        }
+
+        if(Input.GetKeyDown(KeyCode.W))
+        {
+            currentSpellSelection--;
+            if(currentSpellSelection < 0)
+            currentSpellSelection = gamemanager.Spellbook.spells.Count -1;
+
+            UpdateMagicMenu();
+        }
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            SelectSpell();
+        }
+
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+            CloseMagicMenu();
+        }
+    }
+
+    private void SelectSpell()
+    {
+        List<Spell> spells = gamemanager.Spellbook.spells;
+
+        if(spells.Count == 0)
+        return;
+
+        Spell selectedSpell = spells[currentSpellSelection];
+        StartCoroutine(CastSpell(selectedSpell));
+    }
+
+    private IEnumerator CastSpell(Spell spell)
+    {
+        state = BattleState.Busy;
+
+        spellBox.SetActive(false);
+        yield return StartCoroutine(TypeBattleText("You cast " + spell.spellName + "!"));
+
+        yield return new WaitForSeconds(0.5f);
+
+        enemyCombatant.takeDamage(spell.damage);
+
+        yield return StartCoroutine(TypeBattleText(enemyCombatant.combatantName + " took " + spell.damage + " damage!!"));
+
+        yield return new WaitForSeconds(2f);
+
+        if(enemyCombatant.isDead())
+        {
+            enemyData.battlesprite.SetActive(false);
+
+        yield return StartCoroutine(
+            TypeBattleText(
+                enemyCombatant.combatantName + " has been defeated!"));
+            yield return new WaitForSeconds(1f);
+            yield return StartCoroutine(giveDrop());
+
+            EndBattle();
+
+            yield break;
+        }
+        StartCoroutine(EnemyTurn());
+
+    }
     private void SelectItem()
     {
         List<Item> items = gamemanager.Inventory.items;
@@ -393,8 +517,6 @@ public class BattleManager : MonoBehaviour
         StartCoroutine(OpenItemMenu());
     }
 
-    
-
 
     private void UpdateItemMenu()
     {
@@ -410,6 +532,22 @@ public class BattleManager : MonoBehaviour
             
 
             itemText.text += items[i].itemName + "x " + items[i].quantity + "\n";
+        }
+    }
+
+    private void UpdateMagicMenu()
+    {
+        spellText.text = "";
+        List<Spell> spells = gamemanager.Spellbook.spells;
+
+        for(int i = 0; i < spells.Count; i++)
+        {
+            if(i == currentSpellSelection)
+            spellText.text += "> ";
+            else
+            spellText.text += " ";
+
+            spellText.text += spells[i].spellName + "\n";
         }
     }
 
@@ -434,7 +572,7 @@ public class BattleManager : MonoBehaviour
         }
         else if(currentSelection == 1)
         {
-            StartCoroutine(MagicMenu());
+            StartCoroutine(OpenMagicMenu());
         }
         else if(currentSelection == 2)
         {

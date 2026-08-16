@@ -14,19 +14,16 @@ public class GameManager : MonoBehaviour
     [SerializeField] player playercontroller;
     [SerializeField] BattleManager battlemanager;
     [SerializeField] public Inventory Inventory;
+    [SerializeField] public Spellbook Spellbook;
     [SerializeField] private List<EnemyData> enemies;
     [SerializeField] private Combatant playerCombantant;
-
-
-    
-
-   
 
     public event Action OnBattleEnd;
 
     private void Start()
     {
         state = GameState.FreeRoam;
+        playerCombantant.Initialize();
 
         Inventory.AddItem("Meat",3);
         Inventory.AddItem("Potion",2);
@@ -39,7 +36,7 @@ public class GameManager : MonoBehaviour
         playercontroller.OnEncounter += () =>
         {
             StartRandomBattle();
-            playerCombantant.Initialize();
+            
 
         };
 

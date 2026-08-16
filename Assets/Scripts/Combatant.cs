@@ -14,6 +14,7 @@ public class Combatant : MonoBehaviour
     public void Initialize()
     {
         currentHP = maxHP;
+
     }
 
     public void takeDamage(int damage)

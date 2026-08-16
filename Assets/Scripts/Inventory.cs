@@ -6,10 +6,6 @@ public class Inventory : MonoBehaviour
 
     public List<Item> items = new List<Item>();
 
-    public void Start()
-    {
-        
-    }
 
     public void AddItem(string itemName, int amount)
     {
