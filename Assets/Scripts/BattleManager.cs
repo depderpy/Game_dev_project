@@ -831,7 +831,6 @@ public class BattleManager : MonoBehaviour
             TypeBattleText("You used " + selectedItemName + "!")
         );
         
-
         // Wait before applying the item's effect.
         yield return new WaitForSeconds(2f);
 
